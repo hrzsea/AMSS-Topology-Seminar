@@ -4,7 +4,7 @@
 
 ## <font color=Green size=5 face="黑体">Upcoming Talks</font>
 
-### <font color=Peru size=3>April 23, 2021,</font> **<font color=Darkorange size=3>Ke Ye (AMSS)</font>**
+### <font color=Peru size=3>April 23, 2021, **Ke Ye (AMSS)**</font>
 
 Title: TBA
 
