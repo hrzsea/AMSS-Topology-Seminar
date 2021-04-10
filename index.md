@@ -4,7 +4,7 @@
 
 ## <font color=Peru size=5 face="黑体">Upcoming Talks</font>
 
-### <font color=DarkorangePeru size=4>April 24, 2021</font>
+### <font color=Darkorange size=4>April 24, 2021</font>
 **<font color=DarkSalmon size=3>Ke Ye (AMSS)</font>**
 
 Title: TBA
@@ -14,7 +14,7 @@ Abstract
 
 ## <font color=Peru size=4 face="黑体">Historical Talks</font>
 
-### <font color=DarkorangePeru size=4>April 9, 2021</font>
+### <font color=Darkorange size=4>April 9, 2021</font>
 **<font color=DarkSalmon size=3>Haibao Duan (AMSS)</font>**
 
 Title: Characteristic classes of semi-complex vector bundle (II)
@@ -22,7 +22,7 @@ Title: Characteristic classes of semi-complex vector bundle (II)
 Abstract:
 
 
-### <font color=DarkorangePeru size=4>April 2, 2021</font>
+### <font color=Darkorange size=4>April 2, 2021</font>
 **<font color=DarkSalmon size=3>Haibao Duan (AMSS)</font>**
 
 
