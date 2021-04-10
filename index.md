@@ -2,9 +2,9 @@
 
 ### Spring Semester 2021, normally every Friday 9:30am-11:30am at N208 
 
-## <font color=Darkorange size=5 face="黑体">Upcoming Talks</font>
+## <font color=Peru size=5 face="黑体">Upcoming Talks</font>
 
-### <font color=Peru size=4>April 24, 2021</font>
+### <font color=DarkorangePeru size=4>April 24, 2021</font>
 **<font color=DarkSalmon size=3>Ke Ye (AMSS)</font>**
 
 Title: TBA
@@ -12,18 +12,19 @@ Title: TBA
 Abstract
 
 
-## <font color=Darkorange size=4 face="黑体">Historical Talks</font>
+## <font color=Peru size=4 face="黑体">Historical Talks</font>
 
-### <font color=blue>April 9, 2021</font>
-**Haibao Duan (AMSS)**
+### <font color=DarkorangePeru size=4>April 9, 2021</font>
+**<font color=DarkSalmon size=3>Haibao Duan (AMSS)</font>**
 
 Title: Characteristic classes of semi-complex vector bundle (II)
 
 Abstract:
 
 
-### <font color=blue>April 2, 2021</font>
-**Haibao Duan (AMSS)**
+### <font color=DarkorangePeru size=4>April 2, 2021</font>
+**<font color=DarkSalmon size=3>Haibao Duan (AMSS)</font>**
+
 
 Title: Characteristic classes of semi-complex vector bundle (I)
 
