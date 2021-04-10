@@ -42,7 +42,7 @@ Abstract: It is a classical topic to study structures of certain special points 
 
 ### March 19, 2021
 
-**ang Su (AMSS)**
+**Yang Su (AMSS)**
 
 Title: Mapping class groups of projective like planes
 
