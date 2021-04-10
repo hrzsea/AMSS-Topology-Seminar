@@ -2,9 +2,10 @@
 
 ### Spring Semester 2021, normally every Friday 9:30am-11:30am at N208 
 
+
 ## <font color=Green size=5 face="黑体">Upcoming Talks</font>
 
-### <font color=Peru size=3>April 23, 2021</font>, **<font color=Peru size=3>Ke Ye (AMSS)</font>**
+### <font color=Peru size=3>April 23, 2021, Ke Ye (AMSS)</font>
 
 Title: TBA
 
@@ -13,39 +14,35 @@ Abstract
 
 ## <font color=Green size=5 face="黑体">Historical Talks</font>
 
-### <font color=Peru size=3>April 9, 2021,</font> **<font color=Darkorange size=3>Haibao Duan (AMSS)</font>**
+### <font color=Peru size=3>April 9, 2021, Haibao Duan (AMSS)</font>
 
 Title: Characteristic classes of semi-complex vector bundle (II)
 
 Abstract:
 
 
-### <font color=Darkorange size=4>April 2, 2021</font>
-**<font color=DarkSalmon size=3>Haibao Duan (AMSS)</font>**
-
+### <font color=Peru size=3>April 2, 2021, Haibao Duan (AMSS)</font>
 
 Title: Characteristic classes of semi-complex vector bundle (I)
 
 Abstract:
 
-### <font color=blue>March 26, 2021</font>
-**Weiyan Chen (Tsinghua University)**
+
+### <font color=Peru size=3>March 26, 2021, Weiyan Chen (Tsinghua University)</font>
 
 Title: Choosing points on cubic plane curves
 
 Abstract: It is a classical topic to study structures of certain special points on complex smooth cubic plane curves, for example, the 9 flex points and the 27 sextactic points. We consider the following topological question asked by Farb: Is it true that the known algebraic structures give all the possible ways to continuously choose n distinct points on every smooth cubic plane curve, for each given positive integer n? This work is joint with Ishan Banerjee.
 
 
-### <font color=blue>March 19, 2021</font>
-**Yang Su (AMSS)**
+### <font color=Peru size=3>March 19, 2021, Yang Su (AMSS)</font>
 
 Title: Mapping class groups of projective like planes
 
 Abstract:
 
 
-### <font color=blue>March 12, 2021</font>
-**李泽龙 （河北师范大学）**
+### <font color=Peru size=3>March 12, 2021, 李泽龙 （河北师范大学）</font>
 
 题目：持续同调和UMAP背后的数学
 
