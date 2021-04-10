@@ -3,7 +3,7 @@
 ### Spring Semester 2021, normally every Friday 9:30am-11:30am at N208 
 
 
-## <font color=Green size=5 face="黑体">Upcoming Talks</font>
+## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
 
 ### <font color=Peru size=3>April 23, 2021, Ke Ye (AMSS)</font>
 
@@ -12,7 +12,7 @@ Title: TBA
 Abstract
 
 
-## <font color=Green size=5 face="黑体">Historical Talks</font>
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
 
 ### <font color=Peru size=3>April 9, 2021, Haibao Duan (AMSS)</font>
 
