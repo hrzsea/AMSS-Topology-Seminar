@@ -1,6 +1,6 @@
 # Welcome to the AMSS Topology Seminar Website 
 
-### Spring Semester 2021, normally every Friday 9:30am-11:30am at N208 
+### Spring Semester 2021, normally 9:30am-11:30am every Friday at N208 
 
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
