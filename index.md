@@ -4,7 +4,7 @@
 
 ## Upcoming Talks
 
-- ### <text color="blue">April 24, 2021</text>
+- ### <font color=blue>April 24, 2021</font>
 **Ke Ye (AMSS)**
 
 Title: TBA
