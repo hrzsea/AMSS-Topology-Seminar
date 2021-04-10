@@ -2,7 +2,7 @@
 
 Spring Semester 2021, normally every Friday 9:30am-11:30am at N208 
 
-### Upcoming Talk
+## Upcoming Talk
 
 April 24, 2021
 
@@ -12,46 +12,46 @@ Title: TBA
 Abstract
 
 
-### Historical Talk
+## Historical Talk
 
-April 9, 2021
+### April 9, 2021
 
-Haibao Duan (AMSS)
+**Haibao Duan (AMSS)
 
 Title: Characteristic classes of semi-complex vector bundle (II)
 
 Abstract:
 
 
-April 2, 2021
+### April 2, 2021
 
-Haibao Duan (AMSS)
+**Haibao Duan (AMSS)
 
 Title: Characteristic classes of semi-complex vector bundle (I)
 
 Abstract:
 
-March 26, 2021
+### March 26, 2021
 
-Weiyan Chen (Tsinghua University)
+**Weiyan Chen (Tsinghua University)
 
 Title: Choosing points on cubic plane curves
 
 Abstract: It is a classical topic to study structures of certain special points on complex smooth cubic plane curves, for example, the 9 flex points and the 27 sextactic points. We consider the following topological question asked by Farb: Is it true that the known algebraic structures give all the possible ways to continuously choose n distinct points on every smooth cubic plane curve, for each given positive integer n? This work is joint with Ishan Banerjee.
 
 
-March 19, 2021
+### March 19, 2021
 
-Yang Su (AMSS)
+**ang Su (AMSS)
 
 Title: Mapping class groups of projective like planes
 
 Abstract:
 
 
-March 12, 2021
+### March 12, 2021
 
-李泽龙 （河北师范大学）
+**李泽龙 （河北师范大学）
 
 题目：持续同调和UMAP背后的数学
 
