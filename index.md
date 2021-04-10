@@ -4,7 +4,7 @@
 
 ## Upcoming Talks
 
-- ### <font color=blue>April 24, 2021</font>
+### <font color=blue>April 24, 2021</font>
 **Ke Ye (AMSS)**
 
 Title: TBA
@@ -14,7 +14,7 @@ Abstract
 
 ## Historical Talks
 
-- ### April 9, 2021
+### <font color=blue>April 9, 2021</font>
 **Haibao Duan (AMSS)**
 
 Title: Characteristic classes of semi-complex vector bundle (II)
@@ -22,14 +22,14 @@ Title: Characteristic classes of semi-complex vector bundle (II)
 Abstract:
 
 
-- ### April 2, 2021
+### <font color=blue>April 2, 2021</font>
 **Haibao Duan (AMSS)**
 
 Title: Characteristic classes of semi-complex vector bundle (I)
 
 Abstract:
 
-- ### March 26, 2021
+### <font color=blue>March 26, 2021</font>
 **Weiyan Chen (Tsinghua University)**
 
 Title: Choosing points on cubic plane curves
@@ -37,7 +37,7 @@ Title: Choosing points on cubic plane curves
 Abstract: It is a classical topic to study structures of certain special points on complex smooth cubic plane curves, for example, the 9 flex points and the 27 sextactic points. We consider the following topological question asked by Farb: Is it true that the known algebraic structures give all the possible ways to continuously choose n distinct points on every smooth cubic plane curve, for each given positive integer n? This work is joint with Ishan Banerjee.
 
 
-- ### March 19, 2021
+### <font color=blue>March 19, 2021</font>
 **Yang Su (AMSS)**
 
 Title: Mapping class groups of projective like planes
@@ -45,7 +45,7 @@ Title: Mapping class groups of projective like planes
 Abstract:
 
 
-- ### March 12, 2021
+### <font color=blue>March 12, 2021</font>
 **李泽龙 （河北师范大学）**
 
 题目：持续同调和UMAP背后的数学
