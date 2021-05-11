@@ -1,6 +1,6 @@
 # Welcome to the AMSS Topology Seminar Website 
 
-### Spring Semester 2021, normally 9:30am-11:30am every Friday at N208 
+### Spring Semester 2021, normally 9:30am-11:30am every Friday 
 
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
@@ -9,6 +9,8 @@
 
 <font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
 
+Place: N902
+
 Title: Twisted Milnor hypersurface and its genus
 
 Abstract: In this talk, I would like to give a simple introduction about the twisted Milnor hypersurface. This provides a large family of spin (string) manifolds with non zero genus, such as A hat genus, alpha invariant, Witten genus and so on. This is a joint with with Zhi Lv, Fei Han and Jingfang Lian.
@@ -16,6 +18,8 @@ Abstract: In this talk, I would like to give a simple introduction about the twi
 
 
 ### <font color=Peru size=3>Delayed, Ke Ye (AMSS)</font>
+
+Place: N902
 
 Title: TBA
 
@@ -27,6 +31,8 @@ Abstract
 ### <font color=Peru size=3>May 7, 2021, Ruizhi Huang(AMSS)</font>
 
 <font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
+
+Place: N902
 
 Title: Homotopy decompositions of manifolds (0): warm up
 
@@ -45,12 +51,16 @@ The plan is roughly as follows
 
 <font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
 
+Place: N208
+
 Title: Tate cohomology for real oriented cohomology theories
 
 Abstract: In this talk, we present Tate blue shift phenomena for real oriented cohomology theories and norms of them. The ?/p-Tate cohomology spectrum of the n’th Johnson–Wilson theory splits as a wedge of (n-1)’th Johnson–Wilson theories (after completion). We construct a C_2-equivariant lifting of this splitting for Real Johnson–Wilson theories. The C_2-fixed points of this splitting is a higher height analogue to Davis and Mahowald’s splitting of the Tate cohomology spectrum of ko as a wedge of H?. If time allows, I will discuss the normed case. This talk is based on a sequence of joint projects with Hood Chatham, Vitaly Lorman and James D. Quigley.
 
 
 ### <font color=Peru size=3>April 23, 2021, Yubo Liu(AMSS)</font>
+
+Place: N208
 
 Title: Covering type of spaces
 
@@ -59,12 +69,16 @@ Abstract:
 
 ### <font color=Peru size=3>April 9, 2021, Haibao Duan (AMSS)</font>
 
+Place: N208
+
 Title: Characteristic classes of semi-complex vector bundle (II)
 
 Abstract:
 
 
 ### <font color=Peru size=3>April 2, 2021, Haibao Duan (AMSS)</font>
+
+Place: N208
 
 Title: Characteristic classes of semi-complex vector bundle (I)
 
@@ -73,6 +87,8 @@ Abstract:
 
 ### <font color=Peru size=3>March 26, 2021, Weiyan Chen (Tsinghua University)</font>
 
+Place: N211
+
 Title: Choosing points on cubic plane curves
 
 Abstract: It is a classical topic to study structures of certain special points on complex smooth cubic plane curves, for example, the 9 flex points and the 27 sextactic points. We consider the following topological question asked by Farb: Is it true that the known algebraic structures give all the possible ways to continuously choose n distinct points on every smooth cubic plane curve, for each given positive integer n? This work is joint with Ishan Banerjee.
@@ -80,12 +96,16 @@ Abstract: It is a classical topic to study structures of certain special points 
 
 ### <font color=Peru size=3>March 19, 2021, Yang Su (AMSS)</font>
 
+Place: N208
+
 Title: Mapping class groups of projective like planes
 
 Abstract:
 
 
 ### <font color=Peru size=3>March 12, 2021, 李泽龙 （河北师范大学）</font>
+
+Place: N208
 
 题目：持续同调和UMAP背后的数学
 
