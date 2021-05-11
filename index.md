@@ -40,7 +40,7 @@ Abstract: In the next several weeks, I will talk about several recent works on t
 
 The plan is roughly as follows
 
-(0)	Warm up (tomorrow), homotopy groups of fibered Calabi-Yau threefolds;
+(0)	Warm up: homotopy groups of fibered Calabi-Yau threefolds;
 
 (1)	Loop homotopy of $6$-manifolds over $4$-manifolds;
 
