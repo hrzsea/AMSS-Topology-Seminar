@@ -41,9 +41,13 @@ Abstract: In the next several weeks, I will talk about several recent works on t
 The plan is roughly as follows
 
 (0)	Warm up (tomorrow), homotopy groups of fibered Calabi-Yau threefolds;
+
 (1)	Loop homotopy of $6$-manifolds over $4$-manifolds;
+
 (2)	A digression: Suspension homotopy of simply connected $6$-manifolds;
+
 (3)	(with Stephen Theriualt) Exponential growth in the rational homology of free loop spaces; 
+
 (4)	(with Stephen Theriault) Loop decomposition of $(2n-2)$-connected of $(4n-1)$-manifolds. 
 
 
