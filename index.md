@@ -5,7 +5,7 @@
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
 
-### <font color=Peru size=3>April 30, 2021, Hao Li (AMSS)</font>
+### <font color=Peru size=3>April 30, 2021, Hao Li (National University of Singapore)</font>
 
 <font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
 
