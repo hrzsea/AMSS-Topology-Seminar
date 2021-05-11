@@ -5,7 +5,17 @@
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
 
-### <font color=Peru size=3>April 23, 2021, Ke Ye (AMSS)</font>
+### <font color=Peru size=3>April 30, 2021, Hao Li (AMSS)</font>
+
+<font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
+
+Title: Twisted Milnor hypersurface and its genus
+
+Abstract: In this talk, I would like to give a simple introduction about the twisted Milnor hypersurface. This provides a large family of spin (string) manifolds with non zero genus, such as A hat genus, alpha invariant, Witten genus and so on. This is a joint with with Zhi Lv, Fei Han and Jingfang Lian.
+
+
+
+### <font color=Peru size=3>Delayed, Ke Ye (AMSS)</font>
 
 Title: TBA
 
@@ -13,6 +23,32 @@ Abstract
 
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+### <font color=Peru size=3>May 7, 2021, Ruizhi Huang(AMSS)</font>
+
+<font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
+
+Title: Homotopy decompositions of manifolds (0): warm up
+
+Abstract: In the next several weeks, I will talk about several recent works on the homotopy decomposition of manifolds with applications.
+
+The plan is roughly as follows
+
+(0)	Warm up (tomorrow), homotopy groups of fibered Calabi-Yau threefolds;
+(1)	Loop homotopy of $6$-manifolds over $4$-manifolds;
+(2)	A digression: Suspension homotopy of simply connected $6$-manifolds;
+(3)	(with Stephen Theriualt) Exponential growth in the rational homology of free loop spaces; 
+(4)	(with Stephen Theriault) Loop decomposition of $(2n-2)$-connected of $(4n-1)$-manifolds. 
+
+
+### <font color=Peru size=3>April 30, 2021, Guchuan Li (University of Michigan)</font>
+
+<font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
+
+Title: Tate cohomology for real oriented cohomology theories
+
+Abstract: In this talk, we present Tate blue shift phenomena for real oriented cohomology theories and norms of them. The ?/p-Tate cohomology spectrum of the n’th Johnson–Wilson theory splits as a wedge of (n-1)’th Johnson–Wilson theories (after completion). We construct a C_2-equivariant lifting of this splitting for Real Johnson–Wilson theories. The C_2-fixed points of this splitting is a higher height analogue to Davis and Mahowald’s splitting of the Tate cohomology spectrum of ko as a wedge of H?. If time allows, I will discuss the normed case. This talk is based on a sequence of joint projects with Hood Chatham, Vitaly Lorman and James D. Quigley.
+
 
 ### <font color=Peru size=3>April 9, 2021, Haibao Duan (AMSS)</font>
 
