@@ -28,7 +28,7 @@ Abstract
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
 
-### <font color=Peru size=3>May 7, 2021, Ruizhi Huang(AMSS)</font>
+### <font color=Peru size=3>May 7, 2021, Ruizhi Huang (AMSS)</font>
 
 <font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
 
