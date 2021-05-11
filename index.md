@@ -50,7 +50,7 @@ Title: Tate cohomology for real oriented cohomology theories
 Abstract: In this talk, we present Tate blue shift phenomena for real oriented cohomology theories and norms of them. The ?/p-Tate cohomology spectrum of the n’th Johnson–Wilson theory splits as a wedge of (n-1)’th Johnson–Wilson theories (after completion). We construct a C_2-equivariant lifting of this splitting for Real Johnson–Wilson theories. The C_2-fixed points of this splitting is a higher height analogue to Davis and Mahowald’s splitting of the Tate cohomology spectrum of ko as a wedge of H?. If time allows, I will discuss the normed case. This talk is based on a sequence of joint projects with Hood Chatham, Vitaly Lorman and James D. Quigley.
 
 
-### <font color=Peru size=3>April 23, 2021, Liu Yubo (AMSS)</font>
+### <font color=Peru size=3>April 23, 2021, Yubo Liu(AMSS)</font>
 
 Title: Covering type of spaces
 
