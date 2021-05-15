@@ -5,15 +5,7 @@
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
 
-### <font color=Peru size=3>April 30, 2021, Hao Li (National University of Singapore)</font>
-
-<font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
-
-Place: N902
-
-Title: Twisted Milnor hypersurface and its genus
-
-Abstract: In this talk, I would like to give a simple introduction about the twisted Milnor hypersurface. This provides a large family of spin (string) manifolds with non zero genus, such as A hat genus, alpha invariant, Witten genus and so on. This is a joint with with Zhi Lv, Fei Han and Jingfang Lian.
+There will be no talk at May 21 and 28.
 
 
 
@@ -27,6 +19,18 @@ Abstract
 
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+
+### <font color=Peru size=3>April 30, 2021, Hao Li (National University of Singapore)</font>
+
+<font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
+
+Place: N902
+
+Title: Twisted Milnor hypersurface and its genus
+
+Abstract: In this talk, I would like to give a simple introduction about the twisted Milnor hypersurface. This provides a large family of spin (string) manifolds with non zero genus, such as A hat genus, alpha invariant, Witten genus and so on. This is a joint with with Zhi Lv, Fei Han and Jingfang Lian.
+
 
 ### <font color=Peru size=3>May 7, 2021, Ruizhi Huang (AMSS)</font>
 
