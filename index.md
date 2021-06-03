@@ -78,7 +78,7 @@ Abstract: In this talk, we present Tate blue shift phenomena for real oriented c
 
 Place: N208
 
-Title: Covering type of spaces
+Title: Covering types of spaces
 
 Abstract:
 
@@ -87,7 +87,7 @@ Abstract:
 
 Place: N208
 
-Title: Characteristic classes of semi-complex vector bundle (II)
+Title: Characteristic classes of semi-complex vector bundles (II)
 
 Abstract:
 
@@ -96,7 +96,7 @@ Abstract:
 
 Place: N208
 
-Title: Characteristic classes of semi-complex vector bundle (I)
+Title: Characteristic classes of semi-complex vector bundles (I)
 
 Abstract:
 
