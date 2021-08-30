@@ -1,6 +1,6 @@
 # Welcome to the AMSS Topology Seminar Website 
 
-### Autumn Semester 2021, normally 9:30am-11:30am every Friday 
+### Autumn Semester 2021
 
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
