@@ -5,9 +5,9 @@
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
 
-### <font color=Peru size=3>Sep 8, 2021, 陈亮（东北师范大学)</font>
+### <font color=Peru size=3>陈亮（东北师范大学)</font>
 
-<font color=LightCoral size=3>Time: 13：30-14：30</font>
+<font color=LightCoral size=3>Time: 13：30-14：30, Sep 8, 2021</font>
 
 Place: 腾讯会议：110 766 998
 
