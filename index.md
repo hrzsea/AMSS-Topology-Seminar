@@ -5,6 +5,23 @@
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
 
+
+
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+
+### <font color=Peru size=3>July 9, 2021, Ke Ye (AMSS)</font>
+
+Place: N902
+
+Title: Some topics in applied topology and geometry
+
+Abstract
+
+
 ### <font color=Peru size=3>June 4, 2021, 林伟南（北京大学)</font>
 
 <font color=LightCoral size=3>Time Change: 10:15am-11:40am</font>
@@ -14,19 +31,6 @@ Place: N902
 Title: On the May Spectral Sequence at the Prime 2
 
 Abstract: The May spectral sequence is one of the first effective methods to compute the cohomology of the Steenrod algebra. The E2 page is the cohomology of the associated graded algebra of the Steenrod algebra. In addition to a conjecture of May about all of the indecomposables of E2, we are going to state a conjecture about all of the relations. We also conjecture that this E2 page is nilpotent free. We will show that these conjectures all hold in a big subalgebra of E2 which covers a large range of dimensions.
-
-
-
-### <font color=Peru size=3>Delayed, Ke Ye (AMSS)</font>
-
-Place: N902
-
-Title: TBA
-
-Abstract
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
 
 
 ### <font color=Peru size=3>May 14, 2021, Hao Li (National University of Singapore)</font>
