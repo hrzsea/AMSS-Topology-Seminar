@@ -7,7 +7,7 @@
 
 ### <font color=Peru size=3> 周正一（AMSS)</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Sep 20, 2021</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct 20, 2021</font>
 
 Place: N902
 
@@ -28,7 +28,7 @@ Abstract:
 
 ### <font color=Peru size=3> 柳翔（AMSS)</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Sep 15, 2021</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct 13, 2021</font>
 
 Place: N502
 
@@ -40,7 +40,7 @@ Abstract:
 
 ### <font color=Peru size=3> 吴惟为（佐治亚大学)</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Sep 22, 2021</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Sep 29, 2021</font>
 
 Place: N502
 
