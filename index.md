@@ -26,7 +26,7 @@ Abstract:
 
 ### <font color=Peru size=3> member talk (tentative)</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 3, 2021 (tentative)</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 3, 2021 </font>
 
 Place: N502
 
