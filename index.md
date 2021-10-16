@@ -7,7 +7,7 @@
 
 ### <font color=Peru size=3> 周正一（AMSS)</font>
 
-<font color=LightCoral size=3>Time: 14：30-16：30, Sep 15, 2021</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Sep 20, 2021</font>
 
 Place: N902
 
@@ -16,16 +16,19 @@ Title: A symplectic field theory and its applications (II)
 Abstract: 
 
 
+-------------------------------------------------------------------------------------------
 
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
 
 -	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+-	[Historical talks in this semester]
 
+-------------------------------------------------------------------------------------------
 
 ### <font color=Peru size=3> 柳翔（AMSS)</font>
 
-<font color=LightCoral size=3>Time: 14：30-16：30, Sep 15, 2021</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Sep 15, 2021</font>
 
 Place: N502
 
@@ -33,10 +36,11 @@ Title:
 
 Abstract: 
 
+-------------------------------------------------------------------------------------------
 
 ### <font color=Peru size=3> 吴惟为（佐治亚大学)</font>
 
-<font color=LightCoral size=3>Time: 14：30-16：30, Sep 22, 2021</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Sep 22, 2021</font>
 
 Place: N502
 
@@ -44,11 +48,12 @@ Title: Lagrangian surgery formulae and projective twists.
 
 Abstract: I will explain the construction of Lagrangian Dehn twists along a given Lagrangian sphere S in symplectic geometry, then relate them to a symplectic operation called the Lagrangian surgery; the latter constructs Lagrangian embeddings of connected sums.  The relation is two-fold: from a more geometric point of view, the Dehn twist of a given Lagrangian L can be regarded as a simultaneous surgery between L and the given Lagrangian sphere S; or, motivated by mirror symmetry, they are governed by a generalized surgery along clean intersections in a product symplectic manifold.  The first perspective is usually difficult to work with an generalize, we will explain how the second perspective leads to a new view of the Huybrechts-Thomas conjecture regarding projective twists in Floer theories.
 
+-------------------------------------------------------------------------------------------
 
 
 ### <font color=Peru size=3> 阮洋洋（AMSS)</font>
 
-<font color=LightCoral size=3>Time: 14：30-16：30, Sep 22, 2021</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Sep 22, 2021</font>
 
 Place: N502
 
@@ -56,10 +61,11 @@ Title:
 
 Abstract: 
 
+-------------------------------------------------------------------------------------------
 
 ### <font color=Peru size=3> 周正一（AMSS)</font>
 
-<font color=LightCoral size=3>Time: 14：30-16：30, Sep 15, 2021</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Sep 15, 2021</font>
 
 Place: N902
 
@@ -68,9 +74,12 @@ Title: A symplectic field theory and its applications (I)
 Abstract: 
 
 
+-------------------------------------------------------------------------------------------
+
+
 ### <font color=Peru size=3>陈亮（东北师范大学)</font>
 
-<font color=LightCoral size=3>Time: 13：30-14：30, Sep 8, 2021</font>
+### <font color=LightCoral size=3>Time: 13：30-14：30, Sep 8, 2021</font>
 
 Place: 腾讯会议：110 766 998
 
