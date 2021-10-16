@@ -32,7 +32,7 @@ Abstract:
 
 Place: N502
 
-Title: 
+Title: Templates embedding and immersing in R3 （博士后开题报告）
 
 Abstract: 
 
@@ -57,7 +57,7 @@ Abstract: I will explain the construction of Lagrangian Dehn twists along a give
 
 Place: N502
 
-Title: 
+Title: G等变稳定同伦范畴的Balmer谱的计算 （博士后开题报告）
 
 Abstract: 
 
