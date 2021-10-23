@@ -10,6 +10,20 @@
 -------------------------------------------------------------------------------------------
 
 
+
+### <font color=Peru size=3> member talk (tentative)</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 17, 2021 </font>
+
+Place: N502
+
+Title: TBA
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+
 ### <font color=Peru size=3> 苏桃（清华大学)</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 10, 2021 (tentative)</font>
@@ -37,17 +51,28 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3> member talk (tentative)</font>
+### <font color=Peru size=3> 黄瑞芝(AMSS)</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Oct 27, 2021 </font>
 
 Place: N502
 
-Title: TBA
+Title: Algebraic topology of 24 dimensional string manifolds
 
-Abstract: 
+Abstract: String can be viewed as higher version of spin, while the latter plays a fundamental role in Atiyah-Singer index theory. People try to develop parallel theory for string, the full story of which is still mystery. Geometry and topology of string manifolds then attract increasing attentions and interests, while the ones of dimensional $24$ are quite special among string manifolds. 
+In this talk, we will discuss the algebraic-topological aspect of 24-dimensional string manifolds, following the work of Hirzebruch, Ochanine, Landweber-Stong, Mahowald-Hopkins, Chen-Han, and very recent work of mine joint with Fei Han. We will talk about string cobordism, various index-theoretic genera and some applications.
 
 -------------------------------------------------------------------------------------------
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
+-------------------------------------------------------------------------------------------
+
 
 ### <font color=Peru size=3> 周正一（AMSS)</font>
 
@@ -62,14 +87,6 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
-
--------------------------------------------------------------------------------------------
 
 ### <font color=Peru size=3> 柳翔（AMSS)</font>
 
