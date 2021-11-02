@@ -42,9 +42,9 @@ Abstract:
 
 Place: N802
 
-Title: TBA
+Title: Augmentations from Legendrian knots
 
-Abstract: 
+Abstract: In this talk, I will present a cut-and-glue approach in the study of augmentations associated to Legendrian knots. Given a Legendrian knot, this induces from relative contact homology a constructible co-sheaf of DGAs over the real line, whose global co-section recovers the Chekanov-Eliashberg DGA. It follows that, the augmentations of the Chekanov-Eliashberg DGA form the augmentation variety with a sheaf property. As an application, this gives naturally a cell decomposition for the augmentation variety. Consequently, we obtain a new proof to the formula that the E-polynomial of the variety is computed by the ruling polynomial, a combinatorially defined Legendrian isotopy invariant. Time permitting, I will also mention a second application in my recent work concerning part of the geometric P=W conjecture in nonabelian Hodge theory.
 
 -------------------------------------------------------------------------------------------
 
