@@ -38,7 +38,7 @@ Abstract:
 
 ### <font color=Peru size=3> 苏桃（清华大学)</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 10, 2021 (tentative)</font>
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov 10, 2021 </font>
 
 Place: N802
 
