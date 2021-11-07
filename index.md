@@ -50,20 +50,6 @@ Abstract: In this talk, I will present a cut-and-glue approach in the study of a
 
 
 
-### <font color=Peru size=3> 苏阳 (AMSS)</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 3, 2021 </font>
-
-Place: N802
-
-Title: TBA
-
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-
-
 ## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
 
 -	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
