@@ -13,6 +13,19 @@
 
 ### <font color=Peru size=3> member talk (tentative)</font>
 
+### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 8, 2021 </font>
+
+Place: N802
+
+Title: TBA
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> invited talk </font>
+
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 1, 2021 </font>
 
 Place: N802
@@ -25,7 +38,7 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3> invited talk (tentative)</font>
+### <font color=Peru size=3> member talk (tentative)</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 24, 2021 </font>
 
@@ -38,20 +51,6 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3> Yang Su (AMSS) </font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 17, 2021 </font>
-
-Place: N802
-
-Title: TBA
-
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-
-
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
 
@@ -60,6 +59,20 @@ Abstract:
 -	Historical talks in this semester：
 
 -------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> Yang Su (AMSS) </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 17, 2021 </font>
+
+Place: N802
+
+Title: Self covering and fibering manifolds over circle
+
+Abstract:
+
+-------------------------------------------------------------------------------------------
+
 
 ### <font color=Peru size=3> 苏桃（清华大学)</font>
 
