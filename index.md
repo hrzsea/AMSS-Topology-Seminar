@@ -38,7 +38,7 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3> member talk (tentative)</font>
+### <font color=Peru size=3> member talk </font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 24, 2021 </font>
 
