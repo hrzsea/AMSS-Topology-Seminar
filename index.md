@@ -83,7 +83,7 @@ Place: N802
 
 Title: Realising sets of integers as mapping degree sets
 
-Abstract: 
+Abstract: reading seminar about a paper by Neofytidis-Wang-Wang with the same title.
 
 -------------------------------------------------------------------------------------------
 
