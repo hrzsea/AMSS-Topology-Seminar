@@ -13,6 +13,32 @@
 
 ### <font color=Peru size=3> member talk (tentative)</font>
 
+### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 22, 2021 </font>
+
+Place: N802
+
+Title: TBA
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> 桂弢 (AMSS)</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 15, 2021 </font>
+
+Place: N802
+
+Title: TBA
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> 林健锋 (清华大学)</font>
+
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 8, 2021 </font>
 
 Place: N802
@@ -22,6 +48,7 @@ Title: TBA
 Abstract: 
 
 -------------------------------------------------------------------------------------------
+
 
 
 ### <font color=Peru size=3> invited talk </font>
@@ -38,18 +65,6 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3> member talk </font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 24, 2021 </font>
-
-Place: N802
-
-Title: TBA
-
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
 
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
@@ -57,6 +72,18 @@ Abstract:
 -	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
 
 -	Historical talks in this semester：
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 金汇泽（AMSS） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 24, 2021 </font>
+
+Place: N802
+
+Title: Realising sets of integers as mapping degree sets
+
+Abstract: 
 
 -------------------------------------------------------------------------------------------
 
