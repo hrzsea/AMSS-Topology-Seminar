@@ -51,15 +51,15 @@ Abstract:
 
 
 
-### <font color=Peru size=3> invited talk </font>
+### <font color=Peru size=3> 汪世达 </font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 1, 2021 </font>
 
 Place: N802
 
-Title: TBA
+Title: Linear Independence in the Concordance Group and Knot Floer Invariants
 
-Abstract: 
+Abstract: The first half of this talk is expository, introducing the knot concordance group and Heegaard knot Floer theory. We will survey a few invariants arising from the knot Floer complex. Then some families of knots will be given as examples to show how the invariants are used to prove linear independence. Finally, we will discuss concordance problems about algebraic knots. 
 
 
 -------------------------------------------------------------------------------------------
