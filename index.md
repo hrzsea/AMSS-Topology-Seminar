@@ -45,7 +45,15 @@ Place: N802
 
 Title: Nonexistence of symplectic structures on certain family of 4-manifolds
 
-Abstract: Let Symp(X) be the group of symplectomorphisms on a symplectic 4-manifold X. It is a classical problem in symplectic topology to study the homotopy type of Symp(X) and to compare it with the group of all diffeomorphisms on X. This problem is closely related  to the existence of symplectic structures on smooth families of 4-manifolds.  In this talk, we will discuss the following new results: (1) For any X that contains a smoothly embedded 2-sphere with self-intersection -1 or -2, there exists a loop of self-diffeomorphisms on X that is not homotopic to a loop of symplectomorphisms. (2) Consider a family of 4-manifolds obtained by resolving an ADE singularity using a hyperkahler family of complex structures, this family never support a family symplectic structure in a constant cohomology class. (3) For any nonminimal symplectic 4-manifold whose positive second-betti number does  not equal to 3, the space of symplectic form is not simply connected. The key ingredient in the proofs is a new gluing formula for the family Seiberg-Witten invariant.
+Abstract: Let Symp(X) be the group of symplectomorphisms on a symplectic 4-manifold X. It is a classical problem in symplectic topology to study the homotopy type of Symp(X) and to compare it with the group of all diffeomorphisms on X. This problem is closely related  to the existence of symplectic structures on smooth families of 4-manifolds.  In this talk, we will discuss the following new results: 
+
+(1) For any X that contains a smoothly embedded 2-sphere with self-intersection -1 or -2, there exists a loop of self-diffeomorphisms on X that is not homotopic to a loop of symplectomorphisms. 
+
+(2) Consider a family of 4-manifolds obtained by resolving an ADE singularity using a hyperkahler family of complex structures, this family never support a family symplectic structure in a constant cohomology class. 
+
+(3) For any nonminimal symplectic 4-manifold whose positive second-betti number does  not equal to 3, the space of symplectic form is not simply connected. 
+
+The key ingredient in the proofs is a new gluing formula for the family Seiberg-Witten invariant.
 
 
 
