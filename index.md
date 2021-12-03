@@ -45,7 +45,20 @@ Place: N802
 
 Title: Nonexistence of symplectic structures on certain family of 4-manifolds
 
-Abstract: Let Symp(X) be the group of symplectomorphisms on a symplectic 4-manifold X. It is a classical problem in symplectic topology to study the homotopy type of Symp(X) and to compare it with the group of all diffeomorphisms on X. This problem is closely related  to the existence of symplectic structures on smooth families of 4-manifolds.  In this talk, we will discuss the following new results: (1) For any X that contains a smoothly embedded 2-sphere with self-intersection -1 or -2, there exists a loop of self-diffeomorphisms on X that is not homotopic to a loop of symplectomorphisms. (2) Consider a family of 4-manifolds obtained by resolving an ADE singularity using a hyperkahler family of complex structures, this family never support a family symplectic structure in a constant cohomology class. (3) For any symplectic 4-manifold whose positive second-betti number does  not equal to 3, the space of symplectic form is not simply connected. The key ingredient in the proofs is a new gluing formula for the family Seiberg-Witten invariant.
+Abstract: Let Symp(X) be the group of symplectomorphisms on a symplectic 4-manifold X. It is a classical problem in symplectic topology to study the homotopy type of Symp(X) and to compare it with the group of all diffeomorphisms on X. This problem is closely related  to the existence of symplectic structures on smooth families of 4-manifolds.  In this talk, we will discuss the following new results: (1) For any X that contains a smoothly embedded 2-sphere with self-intersection -1 or -2, there exists a loop of self-diffeomorphisms on X that is not homotopic to a loop of symplectomorphisms. (2) Consider a family of 4-manifolds obtained by resolving an ADE singularity using a hyperkahler family of complex structures, this family never support a family symplectic structure in a constant cohomology class. (3) For any nonminimal symplectic 4-manifold whose positive second-betti number does  not equal to 3, the space of symplectic form is not simply connected. The key ingredient in the proofs is a new gluing formula for the family Seiberg-Witten invariant.
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
 
 -------------------------------------------------------------------------------------------
 
@@ -62,16 +75,6 @@ Title: Linear Independence in the Concordance Group and Knot Floer Invariants
 Abstract: The first half of this talk is expository, introducing the knot concordance group and Heegaard knot Floer theory. We will survey a few invariants arising from the knot Floer complex. Then some families of knots will be given as examples to show how the invariants are used to prove linear independence. Finally, we will discuss concordance problems about algebraic knots. 
 
 
--------------------------------------------------------------------------------------------
-
-
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 -------------------------------------------------------------------------------------------
 
