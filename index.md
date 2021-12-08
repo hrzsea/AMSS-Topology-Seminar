@@ -13,6 +13,20 @@
 
 ### <font color=Peru size=3> member talk (tentative)</font>
 
+### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 29, 2021 </font>
+
+Place: N802
+
+Title: TBA
+
+Abstract: 
+
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> member talk (tentative)</font>
+
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 22, 2021 </font>
 
 Place: N802
@@ -33,6 +47,19 @@ Place: N802
 Title: TBA
 
 Abstract: 
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
 
 -------------------------------------------------------------------------------------------
 
@@ -56,17 +83,6 @@ Abstract: Let Symp(X) be the group of symplectomorphisms on a symplectic 4-manif
 The key ingredient in the proofs is a new gluing formula for the family Seiberg-Witten invariant.
 
 
-
--------------------------------------------------------------------------------------------
-
-
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 -------------------------------------------------------------------------------------------
 
