@@ -25,15 +25,17 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3> member talk (tentative)</font>
+### <font color=Peru size=3> 黄瑞芝 (AMSS)</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 22, 2021 </font>
 
 Place: N802
 
-Title: TBA
+Title: An extended rational dichotomy for certain open books
 
-Abstract: 
+Abstract: We study the rational homotopy groups of open books in terms of those of their pages and bindings. Under a so-called homotopy order condition on monodromy we prove a rational dichotomy theorem for open books, as an extension of the classical dichotomy in rational homotopy theory. As a direct application, we show that the monodromies of Milnor's open book decompositions of odd spheres are of infinite order in general. We also calculate the integral homotopy groups of open books when their monodromies are homotopic to the identity map.
+
+This is a joint work with Stephen Theriault.
 
 -------------------------------------------------------------------------------------------
 
