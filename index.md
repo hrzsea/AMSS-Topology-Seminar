@@ -13,7 +13,7 @@
 
 ### <font color=Peru size=3> Jie Wu (BIMSA)</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 29, 2021 </font>
+### <font color=LightCoral size=3>Time: 16：00-17：00, Jan. 05, 2022 </font>
 
 Place: N802
 
