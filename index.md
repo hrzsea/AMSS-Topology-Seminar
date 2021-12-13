@@ -11,6 +11,21 @@
 -------------------------------------------------------------------------------------------
 
 
+### <font color=Peru size=3> Jie Wu (BIMSA)</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 29, 2021 </font>
+
+Place: N802
+
+Title: TBA
+
+Abstract: 
+
+
+
+-------------------------------------------------------------------------------------------
+
+
 ### <font color=Peru size=3> member talk (tentative)</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 29, 2021 </font>
@@ -46,9 +61,9 @@ This is a joint work with Stephen Theriault.
 
 Place: N802
 
-Title: TBA
+Title: Log-concave conjectures on cohomology of configuration spaces and flag manifolds
 
-Abstract: 
+Abstract: A major advance in combinatorics in recent years is the Hodge theory of combinatorial geometry (matroids) established by Adiprasito-Huh-Katz, which in turn solved a series of long-standing open log-concave conjectures. Proudfoot and his collaborators make the log-concave conjecture to the equivariant case, propose some log-concave conjectures of cohomology representations. We discuss the case of configuration spaces and our similar conjectures for flag manifolds and Springer representations and (very little) progress at present.
 
 
 
