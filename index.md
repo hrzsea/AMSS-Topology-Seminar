@@ -52,6 +52,18 @@ Abstract: We study the rational homotopy groups of open books in terms of those 
 
 This is a joint work with Stephen Theriault.
 
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
 -------------------------------------------------------------------------------------------
 
 
@@ -66,17 +78,6 @@ Title: Log-concave conjectures on cohomology of configuration spaces and flag ma
 Abstract: A major advance in combinatorics in recent years is the Hodge theory of combinatorial geometry (matroids) established by Adiprasito-Huh-Katz, which in turn solved a series of long-standing open log-concave conjectures. Proudfoot and his collaborators make the log-concave conjecture to the equivariant case, propose some log-concave conjectures of cohomology representations. We discuss the case of configuration spaces and our similar conjectures for flag manifolds and Springer representations and (very little) progress at present.
 
 
-
--------------------------------------------------------------------------------------------
-
-
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 -------------------------------------------------------------------------------------------
 
