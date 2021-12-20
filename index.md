@@ -26,16 +26,17 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3> member talk (tentative)</font>
+### <font color=Peru size=3> 黄瑞芝 (AMSS)</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 29, 2021 </font>
 
 Place: N802
 
-Title: TBA
+Title: Orders of the canonical vector bundles over configuration spaces of finite graphs
 
-Abstract: 
+Abstract: We prove that the order of the canonical vector bundle over the configuration space is $2$ for a general planar graph, and is $4$ for a nonplanar graph.
 
+This is a joint work with Frederick R. Cohen.
 
 -------------------------------------------------------------------------------------------
 
