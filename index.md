@@ -17,10 +17,9 @@
 
 Place: N802
 
-Title: TBA
+Title: Topological Approaches to Weighted Data
 
-Abstract: 
-
+Abstract: Topology and many other areas of pure mathematics have fruitful applications in data science nowadays. Topological data analysis has become a new-born research area. In this talk, we will discuss topological approaches to weighted data. The talk will consist of five sections. In section 1, we will give brief discussions on the question why Artificial Intelligence needs mathematics, as an introduction. Then we will mainly discuss mathematics and applications of weighted topological data analysis in sections 2 and 3. In Section 4, we will give short discussions on relevant topological approaches such as path homology and hypergraph homology. Finally, in section 5, we will revisit the question why Artificial Intelligence needs mathematics by displaying statistical information from google scholar on the research articles using topological data analysis.
 
 
 -------------------------------------------------------------------------------------------
