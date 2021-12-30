@@ -25,6 +25,14 @@ Abstract: Topology and many other areas of pure mathematics have fruitful applic
 -------------------------------------------------------------------------------------------
 
 
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
+-------------------------------------------------------------------------------------------
+
 ### <font color=Peru size=3> 黄瑞芝 (AMSS)</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 29, 2021 </font>
@@ -39,15 +47,6 @@ This is a joint work with Frederick R. Cohen.
 
 -------------------------------------------------------------------------------------------
 
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
-
--------------------------------------------------------------------------------------------
 
 ### <font color=Peru size=3> 黄瑞芝 (AMSS)</font>
 
