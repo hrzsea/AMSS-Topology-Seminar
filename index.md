@@ -11,6 +11,15 @@
 -------------------------------------------------------------------------------------------
 
 
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
+-------------------------------------------------------------------------------------------
+
+
 ### <font color=Peru size=3> Jie Wu (BIMSA)</font>
 
 ### <font color=LightCoral size=3>Time: 16：00-17：00, Jan. 05, 2022 </font>
@@ -24,14 +33,6 @@ Abstract: Topology and many other areas of pure mathematics have fruitful applic
 
 -------------------------------------------------------------------------------------------
 
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
-
--------------------------------------------------------------------------------------------
 
 ### <font color=Peru size=3> 黄瑞芝 (AMSS)</font>
 
