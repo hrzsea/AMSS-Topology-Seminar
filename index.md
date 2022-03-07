@@ -1,6 +1,6 @@
 # Welcome to the AMSS Topology Seminar Website 
 
-### Spring Semester 2022 (TBA)
+### Spring Semester 2022
 
 -------------------------------------------------------------------------------------------
 
