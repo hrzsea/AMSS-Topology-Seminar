@@ -14,7 +14,7 @@
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Mar. 9, 2022</font>
 
-Place: TBA
+Place: N902
 
 Title: Infinite not contact isotopic embeddings into the standard sphere. 
 
