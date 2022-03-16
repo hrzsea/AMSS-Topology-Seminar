@@ -16,7 +16,7 @@
 
 Place: N902
 
-Title: TBA
+Title: Endotrivial modules of Hopf algebras
 
 Abstract: 
 
