@@ -18,7 +18,9 @@ Place: N902
 
 Title: Fractional structures on bundle gerbe modules and fractional classifying spaces
 
-Abstract: We study the homotopy aspects of the twisted Chern classes of torsion bundle gerbe modules. Using Sullivan's rational homotopy theory, we realize the twisted Chern classes at the level of classifying spaces. The construction suggests a notion, which we call fractional U-structure serving as a universal framework to study the twisted Chern classes of torsion bundle gerbe modules from the perspective of classifying spaces. Based on this, we introduce and study higher fractional structures on torsion bundle gerbe modules parallel to the higher structures on ordinary vector bundles. This is a joint work with Fei Han and Varghese Mathai.
+Abstract: We study the homotopy aspects of the twisted Chern classes of torsion bundle gerbe modules. Using Sullivan's rational homotopy theory, we realize the twisted Chern classes at the level of classifying spaces. The construction suggests a notion, which we call fractional U-structure serving as a universal framework to study the twisted Chern classes of torsion bundle gerbe modules from the perspective of classifying spaces. Based on this, we introduce and study higher fractional structures on torsion bundle gerbe modules parallel to the higher structures on ordinary vector bundles. 
+
+This is a joint work with Fei Han and Varghese Mathai.
 
 
 
@@ -42,7 +44,9 @@ Place: N902
 
 Title: The mapping class group of manifolds which are like projective planes
 
-Abstract: A manifold which is like a projective plane is a simply-connected closed smooth manifold whose homology equals three copies of Z. In this talk I will discuss our computation of the mapping class group of these manifolds, as well as some applications in geometry. This is a joint work with WANG Wei from Shanghai Ocean University.
+Abstract: A manifold which is like a projective plane is a simply-connected closed smooth manifold whose homology equals three copies of Z. In this talk I will discuss our computation of the mapping class group of these manifolds, as well as some applications in geometry. 
+
+This is a joint work with WANG Wei from Shanghai Ocean University.
 
 
 
