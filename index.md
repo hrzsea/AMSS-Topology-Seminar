@@ -4,9 +4,31 @@
 
 -------------------------------------------------------------------------------------------
 
-
 ## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
 
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 蓝青（清华大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 06, 2022</font>
+
+Place: N902
+
+Title: Turaev–Viro TQFT and the Rank versus Genus Conjecture
+
+Abstract: We introduce the idea of a topological quantum field theory (TQFT), and the construction of Turaev–Viro state sum TQFT. As an application we obtain a lower bound of the Heegaard genus of a 3-manifold, and provide some known counterexamples to the rank versus genus conjecture.
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
 
 -------------------------------------------------------------------------------------------
 
@@ -22,17 +44,6 @@ Abstract: We study the homotopy aspects of the twisted Chern classes of torsion 
 
 This is a joint work with Fei Han and Varghese Mathai.
 
-
-
--------------------------------------------------------------------------------------------
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 -------------------------------------------------------------------------------------------
 
