@@ -8,6 +8,22 @@
 
 -------------------------------------------------------------------------------------------
 
+### <font color=Peru size=3> 唐修棣（北京理工大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 13, 2022</font>
+
+Place: N902
+
+Title: Symplectic excision and noncompact Moser theorem
+
+Abstract: A symplectic excision is a sympletomorphism from a noncompact symplectic manifold to the complement of a closed subset. We will discuss the existence of symplectic excisions by explicit constructions and examples. Then we introduce a Moser stability theorem on noncompact manifolds. 
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+
 ### <font color=Peru size=3> 蓝青（清华大学）</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 06, 2022</font>
