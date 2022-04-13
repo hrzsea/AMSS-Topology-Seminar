@@ -8,6 +8,31 @@
 
 -------------------------------------------------------------------------------------------
 
+### <font color=Peru size=3> 叶帆（剑桥大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 20, 2022</font>
+
+Place: N902
+
+Title: SO(3) representations and the four color theorem
+
+Abstract: The four color theorem was proved by Appel and Haken in 1989 using a computer. At ICM 2018, Kronheimer and Mrowka proposed an alternative way based on gauge theory in low-dimensional topology that might give a new proof of this theorem. This talk is a survey of their approach. First, I’ll explain the relation between the SO(3) representation variety of a trivalent graph and the four color theorem. Then I’ll review some properties of singular instanton Floer homology J^# of a trivalent graph.
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
+-------------------------------------------------------------------------------------------
+
 ### <font color=Peru size=3> 唐修棣（北京理工大学）</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 13, 2022</font>
@@ -35,16 +60,6 @@ Title: Turaev–Viro TQFT and the Rank versus Genus Conjecture
 Abstract: We introduce the idea of a topological quantum field theory (TQFT), and the construction of Turaev–Viro state sum TQFT. As an application we obtain a lower bound of the Heegaard genus of a 3-manifold, and provide some known counterexamples to the rank versus genus conjecture.
 
 
-
--------------------------------------------------------------------------------------------
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 -------------------------------------------------------------------------------------------
 
