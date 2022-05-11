@@ -8,15 +8,16 @@
 
 -------------------------------------------------------------------------------------------
 
-### <font color=Peru size=3> 王炜飙（北京大学）</font>
+### <font color=Peru size=3> 何思奇（AMSS）</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 27, 2022</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, May. 18, 2022</font>
 
 Place: N902
 
-Title: Extendabilities of periodic surfaces maps over n-spheres
+Title: 2 harmonic 1-forms and related problems
 
-Abstract: A self-homeomorphism f of a surface S is said to be extendable over a given manifold M, if S can be embedded into M such that f extends to a self-homeomorphism of M. We will discuss the extendabilities of periodic maps on closed orientable surfaces over 3-sphere and 4-sphere. For 3-sphere we give equivalent conditions for extendabilities and construct all the extendable maps. For 4-sphere we provide non-extendable examples for almost every genus.
+
+Abstract: Z2 harmonic 1-forms are a higher-dimensional generalization of quadratic differentials of Riemannian surface, with tight connections to gauge theory, low-dimensional topology, and calibrated geometry. According to Taubes' work, Z2 harmonic 1-forms are the ideal boundary of the flat SL(2,C) connections. Previously, most known examples of Z2 harmonic 1-forms are coming from complex manifold. In the first half of the talk, we will discuss about the existence problem of Z2 harmonic 1-form. We will introduce a topological condition to construct examples of Z2 harmonic 1-forms, which could be satisfied for real Riemannian manifolds. In the second half of the talk, a geometry application of Z2 harmonic 1-forms will be discussed. We will explain how to construct branched deformations of special Lagrangian submanifolds using nondegenerate Z2 harmonic 1-forms.
 
 
 
@@ -30,6 +31,19 @@ Abstract: A self-homeomorphism f of a surface S is said to be extendable over a 
 -	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
 
 -	Historical talks in this semester：
+
+-------------------------------------------------------------------------------------------
+### <font color=Peru size=3> 王炜飙（北京大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 27, 2022</font>
+
+Place: N902
+
+Title: Extendabilities of periodic surfaces maps over n-spheres
+
+Abstract: A self-homeomorphism f of a surface S is said to be extendable over a given manifold M, if S can be embedded into M such that f extends to a self-homeomorphism of M. We will discuss the extendabilities of periodic maps on closed orientable surfaces over 3-sphere and 4-sphere. For 3-sphere we give equivalent conditions for extendabilities and construct all the extendable maps. For 4-sphere we provide non-extendable examples for almost every genus.
+
+
 
 -------------------------------------------------------------------------------------------
 
