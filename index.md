@@ -10,7 +10,7 @@
 
 ### <font color=Peru size=3> 何思奇（AMSS）</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, May. 18, 2022</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Jun. ??, 2022</font>
 
 Place: N902
 
