@@ -12,12 +12,12 @@
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Sep. 14, 2022</font>
 
-Place: TBA
+Place: N802
 
-Title: TBA
+Title: Free circle actions on highly connected (2n+1)- manifolds
 
 
-Abstract: TBA
+Abstract: A natural problem in topology is to determine which manifolds admit certain group actions. The problem we concern in this talk is to determine which highly connected (2n+1)-manifolds admit free circle actions. I will introduce some previous work and our progress on this problem.
 
 
 
