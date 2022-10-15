@@ -9,6 +9,69 @@
 
 -------------------------------------------------------------------------------------------
 
+### <font color=Peru size=3> 高鸿灏（清华大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 09, 2022</font>
+
+Place: N802
+
+Title: TBA
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 王中子（北京大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 02, 2022</font>
+
+Place: N802
+
+Title: TBA
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 刘文奡（AMSS）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Oct. 26, 2022</font>
+
+Place: N802
+
+Title: Rigidity and vanishing of elliptic genera of complex manifolds
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 桂弢（AMSS）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 19, 2022</font>
+
+Place: N802
+
+Title: Equivariant cohomology
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
+-------------------------------------------------------------------------------------------
 ### <font color=Peru size=3> 张俊（中科大）</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-15：30, Sep. 28, 2022</font>
@@ -32,18 +95,6 @@ Title: Shadows of Hodge Theory (or: Never Underestimate Symmetry!)
 
 
 Abstract: This talk aims to advertise a pattern/phenomenon that has emerged in many different mathematical areas during the past decades but is not currently well-understood. I will begin with a broad overview of the Kahler packages (Poincare duality, Hard Lefschetz, and Hodge-Riemann relations) that appear in geometry, algebra, and combinatorics, from the classics of Lefschetz to the recent work of this year's Fields medalist June Huh, in a down-to-earth way. Then I will discuss two new Kahler packages we discovered that are equivariant and have no geometric origin. The equivariant log-concavity in representation theory hints at our discoveries. This talk will be non-technical and accessible to the general audience: nothing will be assumed other than elementary linear algebra. Partly based on joint work with Rui Xiong.
-
--------------------------------------------------------------------------------------------
-
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 -------------------------------------------------------------------------------------------
 
