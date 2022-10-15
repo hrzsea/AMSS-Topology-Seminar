@@ -11,7 +11,7 @@
 
 ### <font color=Peru size=3> 高鸿灏（清华大学）</font>
 
-### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 09, 2022</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 09, 2022</font>
 
 Place: N802
 
@@ -24,7 +24,7 @@ Abstract:
 
 ### <font color=Peru size=3> 王中子（北京大学）</font>
 
-### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 02, 2022</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 02, 2022</font>
 
 Place: N802
 
@@ -37,7 +37,7 @@ Abstract:
 
 ### <font color=Peru size=3> 刘文奡（AMSS）</font>
 
-### <font color=LightCoral size=3>Time: 14：30-15：30, Oct. 26, 2022</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 26, 2022</font>
 
 Place: N802
 
