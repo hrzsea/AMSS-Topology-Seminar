@@ -13,7 +13,7 @@
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 09, 2022</font>
 
-Place: N802
+Place: N533
 
 Title: TBA
 
@@ -26,7 +26,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 02, 2022</font>
 
-Place: N802
+Place: N533
 
 Title: TBA
 
@@ -39,22 +39,9 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 26, 2022</font>
 
-Place: N802
+Place: N533
 
 Title: Rigidity and vanishing of elliptic genera of complex manifolds
-
-
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 桂弢（AMSS）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 19, 2022</font>
-
-Place: N802
-
-Title: Equivariant cohomology
 
 
 Abstract: 
@@ -72,6 +59,20 @@ Abstract:
 -	Historical talks in this semester：
 
 -------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 桂弢（AMSS）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 19, 2022</font>
+
+Place: N533
+
+Title: Equivariant cohomology, localization formula and moment graph
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
 ### <font color=Peru size=3> 张俊（中科大）</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-15：30, Sep. 28, 2022</font>
