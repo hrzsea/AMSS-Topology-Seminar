@@ -7,6 +7,34 @@
 ## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
 
 
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 柳翔（AMSS）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 09, 2022</font>
+
+Place: N533
+
+Title: TBA
+
+
+Abstract: 
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 罗月桐（）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 09, 2022</font>
+
+Place: N533
+
+Title: Borel conjecture for tori
+
+
+Abstract: 
+
 -------------------------------------------------------------------------------------------
 
 ### <font color=Peru size=3> 高鸿灏（清华大学）</font>
@@ -28,10 +56,22 @@ Abstract:
 
 Place: N533
 
-Title: TBA
+Title: Degree one maps between 4-manifolds with cyclic fundament groups
 
 
-Abstract: 
+Abstract: I will present some results on the existence and finiteness of degree one maps between 4-manifolds with cyclic fundamental groups, as well as the relation between 1-domination and Euler characteristics. This is based on a joint work with Yang Su and Shicheng Wang.
+
+-------------------------------------------------------------------------------------------
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
 
 -------------------------------------------------------------------------------------------
 
@@ -48,17 +88,6 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
-
--------------------------------------------------------------------------------------------
 
 ### <font color=Peru size=3> 桂弢（AMSS）</font>
 
