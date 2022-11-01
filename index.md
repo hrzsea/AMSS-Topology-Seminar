@@ -12,7 +12,7 @@
 
 ### <font color=Peru size=3> 柳翔（AMSS）</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 09, 2022</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 23, 2022</font>
 
 Place: N533
 
@@ -26,7 +26,7 @@ Abstract:
 
 ### <font color=Peru size=3> 罗月桐（）</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 09, 2022</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 16, 2022</font>
 
 Place: N533
 
