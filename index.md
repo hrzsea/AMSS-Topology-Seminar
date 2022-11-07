@@ -24,7 +24,7 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
-### <font color=Peru size=3> 罗月桐（）</font>
+### <font color=Peru size=3> 罗月桐 </font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 16, 2022</font>
 
@@ -39,14 +39,14 @@ Abstract:
 
 ### <font color=Peru size=3> 高鸿灏（清华大学）</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 09, 2022</font>
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 09, 2022</font>
 
 Place: N533
 
-Title: TBA
+Title: Legendrian knots and cluster algebras via augmentations
 
 
-Abstract: 
+Abstract: Legendrian knots and their exact Lagrangian fillings are central objects to study in low dimensional contact and symplectic topology. In recent developments, cluster algebras have proven to be powerful tools to classify Lagrangian fillings. For a positive braid link, we introduce a cluster K2 structure on its augmentation variety.  Using the perspective of Ekholm-Honda-Kalman theory, we prove that admissible exact Lagrangian fillings, a subset of decomposable ones, induce cluster seeds in the cluster K2 augmentation variety. We provide an algorithm to compute these cluster seeds. We also use the cluster Donaldson-Thomas transformation to produce infinitely many Lagrangian fillings. This is a joint work with L. Shen and D. Weng.
 
 -------------------------------------------------------------------------------------------
 
