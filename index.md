@@ -50,18 +50,6 @@ Abstract: Legendrian knots and their exact Lagrangian fillings are central objec
 
 -------------------------------------------------------------------------------------------
 
-### <font color=Peru size=3> 王中子（北京大学）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 02, 2022</font>
-
-Place: N533
-
-Title: Degree one maps between 4-manifolds with cyclic fundament groups
-
-
-Abstract: I will present some results on the existence and finiteness of degree one maps between 4-manifolds with cyclic fundamental groups, as well as the relation between 1-domination and Euler characteristics. This is based on a joint work with Yang Su and Shicheng Wang.
-
--------------------------------------------------------------------------------------------
 
 
 
@@ -72,6 +60,19 @@ Abstract: I will present some results on the existence and finiteness of degree 
 -	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
 
 -	Historical talks in this semester：
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 王中子（北京大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 02, 2022</font>
+
+Place: N533
+
+Title: Degree one maps between 4-manifolds with cyclic fundament groups
+
+
+Abstract: I will present some results on the existence and finiteness of degree one maps between 4-manifolds with cyclic fundamental groups, as well as the relation between 1-domination and Euler characteristics. This is based on a joint work with Yang Su and Shicheng Wang.
 
 -------------------------------------------------------------------------------------------
 
