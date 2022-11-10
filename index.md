@@ -24,7 +24,7 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
-### <font color=Peru size=3> 罗月桐 </font>
+### <font color=Peru size=3> 罗月桐（北京大学） </font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 16, 2022</font>
 
@@ -33,20 +33,8 @@ Place: N533
 Title: Borel conjecture for tori
 
 
-Abstract: 
+Abstract: The Borel conjecture considers the obstruction from homotopy equivalence to homeomorphism for aspherical manifolds. The torus is the first computed case of Borel conjecture with the idea of splitting used in the computation. In this talk I will review the basic results of surgery theory and prove the Borel conjecture for torus following Shanneson and Hsiang’s calculation. Moreover, the further Farrell’s splitting for structure set gives us further tools in the proof of more complicated case of Borel conjecture.
 
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 高鸿灏（清华大学）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 09, 2022</font>
-
-Place: N533
-
-Title: Legendrian knots and cluster algebras via augmentations
-
-
-Abstract: Legendrian knots and their exact Lagrangian fillings are central objects to study in low dimensional contact and symplectic topology. In recent developments, cluster algebras have proven to be powerful tools to classify Lagrangian fillings. For a positive braid link, we introduce a cluster K2 structure on its augmentation variety.  Using the perspective of Ekholm-Honda-Kalman theory, we prove that admissible exact Lagrangian fillings, a subset of decomposable ones, induce cluster seeds in the cluster K2 augmentation variety. We provide an algorithm to compute these cluster seeds. We also use the cluster Donaldson-Thomas transformation to produce infinitely many Lagrangian fillings. This is a joint work with L. Shen and D. Weng.
 
 -------------------------------------------------------------------------------------------
 
@@ -60,6 +48,20 @@ Abstract: Legendrian knots and their exact Lagrangian fillings are central objec
 -	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
 
 -	Historical talks in this semester：
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 高鸿灏（清华大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 09, 2022</font>
+
+Place: N533
+
+Title: Legendrian knots and cluster algebras via augmentations
+
+
+Abstract: Legendrian knots and their exact Lagrangian fillings are central objects to study in low dimensional contact and symplectic topology. In recent developments, cluster algebras have proven to be powerful tools to classify Lagrangian fillings. For a positive braid link, we introduce a cluster K2 structure on its augmentation variety.  Using the perspective of Ekholm-Honda-Kalman theory, we prove that admissible exact Lagrangian fillings, a subset of decomposable ones, induce cluster seeds in the cluster K2 augmentation variety. We provide an algorithm to compute these cluster seeds. We also use the cluster Donaldson-Thomas transformation to produce infinitely many Lagrangian fillings. This is a joint work with L. Shen and D. Weng.
 
 -------------------------------------------------------------------------------------------
 
