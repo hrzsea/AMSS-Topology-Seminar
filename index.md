@@ -10,6 +10,49 @@
 
 -------------------------------------------------------------------------------------------
 
+### <font color=Peru size=3> 李友林（上海交通大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 14, 2022</font>
+
+Place: N533
+
+Title: TBA
+
+
+Abstract: 
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 李鹏程（南方科技大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 07, 2022</font>
+
+Place: N533
+
+Title: TBA
+
+
+Abstract: 
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 林剑锋（清华大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 30, 2022</font>
+
+Place: N533
+
+Title: TBA
+
+
+Abstract: 
+
+
+-------------------------------------------------------------------------------------------
+
+
 ### <font color=Peru size=3> 柳翔（AMSS）</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 23, 2022</font>
