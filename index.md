@@ -10,6 +10,21 @@
 
 -------------------------------------------------------------------------------------------
 
+### <font color=Peru size=3> 罗月桐（北京大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 21, 2022</font>
+
+Place: N533
+
+Title: Borel conjecture for tori
+
+
+Abstract: The Borel conjecture considers the obstruction from homotopy equivalence to homeomorphism for aspherical manifolds. The torus is the first computed case of Borel conjecture with the idea of splitting used in the computation. In this talk I will review the basic results of surgery theory and prove the Borel conjecture for torus following Shanneson and Hsiang’s calculation. Moreover, the further Farrell’s splitting for structure set gives us further tools in the proof of more complicated case of Borel conjecture.
+
+
+-------------------------------------------------------------------------------------------
+
+
 ### <font color=Peru size=3> 李友林（上海交通大学）</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 14, 2022</font>
@@ -26,7 +41,7 @@ Abstract:
 
 ### <font color=Peru size=3> 李鹏程（南方科技大学）</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 07, 2022</font>
+### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 07, 2022</font>
 
 Place: N533
 
@@ -59,28 +74,13 @@ Abstract:
 
 Place: N533
 
-Title: TBA
+Title: Linked periodic orbits of disc homeomorphisms
 
 
-Abstract: 
-
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 罗月桐（北京大学） </font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 16, 2022</font>
-
-Place: N533
-
-Title: Borel conjecture for tori
-
-
-Abstract: The Borel conjecture considers the obstruction from homotopy equivalence to homeomorphism for aspherical manifolds. The torus is the first computed case of Borel conjecture with the idea of splitting used in the computation. In this talk I will review the basic results of surgery theory and prove the Borel conjecture for torus following Shanneson and Hsiang’s calculation. Moreover, the further Farrell’s splitting for structure set gives us further tools in the proof of more complicated case of Borel conjecture.
+Abstract: In 1990, Gambaudo introduced the notion of linking of two invariant sets of a surface self-map. Most of the known results of linked periodic orbits are about an orbit linked with a fixed point. In this talk, based on the forcing relation of braids, we present a method for finding periodic orbits which are linked with a given periodic orbit of an orientation-preserving homeomorphism of the disc. New examples are provided.
 
 
 -------------------------------------------------------------------------------------------
-
 
 
 
