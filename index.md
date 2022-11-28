@@ -14,7 +14,7 @@
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 21, 2022</font>
 
-Place: N533
+Place: Mars
 
 Title: Borel conjecture for tori
 
@@ -29,7 +29,7 @@ Abstract: The Borel conjecture considers the obstruction from homotopy equivalen
 
 ### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 14, 2022</font>
 
-Place: N533
+Place: Mars
 
 Title: TBA
 
@@ -43,12 +43,12 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 07, 2022</font>
 
-Place: N533
+Place: 腾讯会议：6965463074
 
-Title: TBA
+Title: Suspension Homotopy of 4-manifolds And the Second 2-local Cohomotopy Sets
 
 
-Abstract: 
+Abstract: In this talk we study the homotopy type of the (double) suspension of an orientable, closed, connected 4-manifold M, whose integral homology can have 2-torsion. Moreover, the decomposition results are applied to give a partial characterization of the second 2-local cohomotopy set of 4-manifolds. 
 
 
 -------------------------------------------------------------------------------------------
@@ -57,27 +57,12 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 30, 2022</font>
 
-Place: N533
+Place: 腾讯会议：468-144-607
 
-Title: TBA
-
-
-Abstract: 
+Title: Homological instability for the moduli space of smooth 4-manifolds 
 
 
--------------------------------------------------------------------------------------------
-
-
-### <font color=Peru size=3> 柳翔（AMSS）</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 23, 2022</font>
-
-Place: N533
-
-Title: Linked periodic orbits of disc homeomorphisms
-
-
-Abstract: In 1990, Gambaudo introduced the notion of linking of two invariant sets of a surface self-map. Most of the known results of linked periodic orbits are about an orbit linked with a fixed point. In this talk, based on the forcing relation of braids, we present a method for finding periodic orbits which are linked with a given periodic orbit of an orientation-preserving homeomorphism of the disc. New examples are provided.
+Abstract: The moduli space of a smooth manifold X is defined to be the classifying space of its diffeomorphism group. Understanding the cohomology group of this space is important because elements in this group one-to-one correspond to characteristic classes for smooth bundles with fiber X. A celebrated result of Harer states that homology groups of the moduli spaces of Riemann surfaces stabilize if one fixes a degree and increases the genus. Galatius and Randal-Williams established analogous homological stability for moduli spaces of manifolds of even dimension at least 6. In this talk, we will show that homological stability fails for the moduli space of any simply-connected closed smooth 4-manifold in any degree of homology. The central tool is a characteristic class constructed using Seiberg-Witten equations, which detects the subtle difference between the topological category and the smooth category of 4-manifolds. This is a joint work with Hokuto Konno.
 
 
 -------------------------------------------------------------------------------------------
@@ -94,6 +79,20 @@ Abstract: In 1990, Gambaudo introduced the notion of linking of two invariant se
 
 
 -------------------------------------------------------------------------------------------
+### <font color=Peru size=3> 柳翔（AMSS）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 23, 2022</font>
+
+Place: 701 801 036
+
+Title: Linked periodic orbits of disc homeomorphisms
+
+
+Abstract: In 1990, Gambaudo introduced the notion of linking of two invariant sets of a surface self-map. Most of the known results of linked periodic orbits are about an orbit linked with a fixed point. In this talk, based on the forcing relation of braids, we present a method for finding periodic orbits which are linked with a given periodic orbit of an orientation-preserving homeomorphism of the disc. New examples are provided.
+
+
+-------------------------------------------------------------------------------------------
+
 
 ### <font color=Peru size=3> 高鸿灏（清华大学）</font>
 
