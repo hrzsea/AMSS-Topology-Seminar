@@ -29,16 +29,28 @@ Abstract: The Borel conjecture considers the obstruction from homotopy equivalen
 
 ### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 14, 2022</font>
 
-Place: Mars
+Place: 306-836-756
 
-Title: TBA
+Title: Symplectic fillings of lens spaces and Seifert fibered spaces  
 
 
-Abstract: 
+Abstract: In this talk, we apply Menke's JSJ decomposition for symplectic fillings to several families of contact 3-manifolds. Among other results, we complete the classification up to orientation-preserving diffeomorphism of strong symplectic fillings of lens spaces. For large families of contact structures on Seifert fibered spaces over S^2, we reduce the problem of classifying exact symplectic fillings to the same problem for universally tight or canonical contact structures. We show that exact symplectic fillings of contact manifolds obtained by surgery on certain Legendrian negative cables are the result of attaching a symplectic 2-handle to an exact symplectic filling of a lens space. This is joint work with Austin Christian.
 
 
 -------------------------------------------------------------------------------------------
 
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
+
+-------------------------------------------------------------------------------------------
 ### <font color=Peru size=3> 李鹏程（南方科技大学）</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 07, 2022</font>
@@ -63,19 +75,6 @@ Title: Homological instability for the moduli space of smooth 4-manifolds
 
 
 Abstract: The moduli space of a smooth manifold X is defined to be the classifying space of its diffeomorphism group. Understanding the cohomology group of this space is important because elements in this group one-to-one correspond to characteristic classes for smooth bundles with fiber X. A celebrated result of Harer states that homology groups of the moduli spaces of Riemann surfaces stabilize if one fixes a degree and increases the genus. Galatius and Randal-Williams established analogous homological stability for moduli spaces of manifolds of even dimension at least 6. In this talk, we will show that homological stability fails for the moduli space of any simply-connected closed smooth 4-manifold in any degree of homology. The central tool is a characteristic class constructed using Seiberg-Witten equations, which detects the subtle difference between the topological category and the smooth category of 4-manifolds. This is a joint work with Hokuto Konno.
-
-
--------------------------------------------------------------------------------------------
-
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 
 -------------------------------------------------------------------------------------------
