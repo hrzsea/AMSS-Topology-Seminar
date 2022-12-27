@@ -10,11 +10,38 @@
 
 -------------------------------------------------------------------------------------------
 
+### <font color=Peru size=3> 燕汝佳（AMSS） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 28, 2022</font>
+
+Place: 747-737-156
+
+Title: The Stable Picard Group of A(n)
+
+
+Abstract: In 1976, Adams calculated the Picard group of A(1) in “Uniqueness of BSO”, and it was not until 2017 that the conclusion of A(2) appeared. In the case of n greater than 2, it was initially impossible to determine whether its Picard group is finitely generated.  In this talk, the Picard groups for all A(n) will be given. The method relies on reductions from a Hopf algebra to its proper Hopf subalgebras.
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
+
+-------------------------------------------------------------------------------------------
+
 ### <font color=Peru size=3> 罗月桐（北京大学） </font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 21, 2022</font>
 
-Place: Mars
+Place: 898 465 270
 
 Title: Borel conjecture for tori
 
@@ -23,7 +50,6 @@ Abstract: The Borel conjecture considers the obstruction from homotopy equivalen
 
 
 -------------------------------------------------------------------------------------------
-
 
 ### <font color=Peru size=3> 李友林（上海交通大学）</font>
 
@@ -39,18 +65,6 @@ Abstract: In this talk, we apply Menke's JSJ decomposition for symplectic fillin
 
 -------------------------------------------------------------------------------------------
 
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
-
-
--------------------------------------------------------------------------------------------
 ### <font color=Peru size=3> 李鹏程（南方科技大学）</font>
 
 ### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 07, 2022</font>
