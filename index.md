@@ -8,8 +8,19 @@
 
 
 
--------------------------------------------------------------------------------------------
 
+### <font color=Peru size=3> 阮洋洋（AMSS） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Feb. 22, 2023</font>
+
+Place: N902
+
+Title: General Blue-Shift Phenomenon and Generalized Relations of Roots and Coefficients of a Polynomial
+
+
+Abstract: In chromatic homotopy theory, there is a well-known conjecture called blue-shift phenomenon (BSP). Recently, Balmer-Sanders and Barthel-Hausmann-Naumann-Nikolaus-Noel-Stapleton showed that a new BSP is closely related to the Zariski topology of Balmer spectrum of the category of compact genuine A-spectra for a finite abelian group A. To unify these two BSP to one framework, we propose a general blue-shift phenomenon (GBSP) in this paper and have a new idea to explain it in a more conceptual way. To carry out our idea, we use the roots of p^j-series of formal group law of a complex oriented spectrum E in the homotopy group of the generalized Tate spectrum of E originally due to the seminal paper of Hopkins-Kuhn-Ravenel. This motivates us to go further to study the relation of roots and coefficients of a polynomial in a commutative ring R. And we propose a notion called n-tuple of a polynomial in R to obtain generalized relations of roots and coefficients of this polynomial in R. These generalized relations have a broad application prospect in reducing the relations of R, especially they play an extremely important role in explaining GBSP. By taking this brand-new approach, we successfully achieve our idea of the explanation of GBSP for some abelian cases, and obtain that the generalized Tate construction lowers Bousfield class along with many Tate vanishing results. This strengthens and extends previous theorems of Balmer-Sanders and Ando-Morava-Sadofsky. Though our approach could only recover Barthel-Hausmann-Naumann-Nikolaus-Noel-Stapleton, it seems more accessible to deal with GBSP for non-abelian cases. Besides, our approach greatly simplifies the original proof of Bonventre-Guillou-Stapleton (arXiv:2204.03797), which showed that its applications are not restricted to GBSP. Thus our approach deserves more applications and further study.
+
+-------------------------------------------------------------------------------------------
 
 
 
