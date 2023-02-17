@@ -27,7 +27,7 @@ Abstract:
 
 
 
-### <font color=Peru size=3> 田垠（清华大学） </font>
+### <font color=Peru size=3> 田垠（北京师范大学） </font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Mar. 08, 2023</font>
 
