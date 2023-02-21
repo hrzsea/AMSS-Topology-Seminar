@@ -12,7 +12,7 @@
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, May. 31, 2023</font>
 
-Place: N902
+Place: N802
 
 Title: 
 
@@ -24,7 +24,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, May. 17, 2023</font>
 
-Place: N902
+Place: N802
 
 Title: 
 
@@ -37,7 +37,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 19, 2023</font>
 
-Place: N902
+Place: N802
 
 Title: 
 
@@ -50,7 +50,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Mar. 22, 2023</font>
 
-Place: N902
+Place: N802
 
 Title: 
 
@@ -68,7 +68,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Mar. 08, 2023</font>
 
-Place: N902
+Place: N802
 
 Title: 
 
@@ -85,7 +85,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Feb. 22, 2023</font>
 
-Place: N902
+Place: N802
 
 Title: General Blue-Shift Phenomenon and Generalized Relations of Roots and Coefficients of a Polynomial
 
