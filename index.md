@@ -64,7 +64,7 @@ Abstract:
 
 ### <font color=Peru size=3> 朱中坚（温州大学） </font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 19, 2023</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Mar. 29, 2023</font>
 
 Place: N802
 
