@@ -8,6 +8,23 @@
 
 
 
+### <font color=Peru size=3> 于立（南京大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Jun. 14, 2023</font>
+
+Place: N802
+
+Title: 
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
+
+
+
 ### <font color=Peru size=3> 王军（） </font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, May. 31, 2023</font>
@@ -20,6 +37,7 @@ Title:
 Abstract: 
 
 -------------------------------------------------------------------------------------------
+
 
 
 ### <font color=Peru size=3> Sergei Ivanov（BIMSA） </font>
@@ -101,14 +119,25 @@ Abstract:
 
 Place: N802
 
-Title: 
+Title: Higher dimensional Heegaard Floer homology and Hecke algebras 
 
 
-Abstract: 
+Abstract: Higher dimensional Heegaard Floer homology (HDHF) is a higher dimensional analogue of Heegaard Floer homology in dimension three. It's partly used to study contact topology in higher dimensions. In a special case, it's related to symplectic Khovanov homology. In this talk, we discuss HDHF of cotangent fibers of the cotangent bundle of an oriented surface and show that it is isomorphic to various Hecke algebras. This is a joint work with Ko Honda and Tianyu Yuan.
 
 -------------------------------------------------------------------------------------------
 
 
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
 
 
 
@@ -126,17 +155,6 @@ Abstract: In chromatic homotopy theory, there is a well-known conjecture called 
 -------------------------------------------------------------------------------------------
 
 
-
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 
 
