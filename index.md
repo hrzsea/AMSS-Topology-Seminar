@@ -21,8 +21,6 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
-## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
-
 
 
 ### <font color=Peru size=3> 王军（） </font>
