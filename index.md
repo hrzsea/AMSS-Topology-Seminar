@@ -124,6 +124,33 @@ Abstract:
 
 
 
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
+
+### <font color=Peru size=3> 阮洋洋（AMSS） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Mar. 15, 2023</font>
+
+Place: N802
+
+Title: General Blue-Shift Phenomenon and Generalized Relations of Roots and Coefficients of a Polynomial （II）
+
+
+Abstract: same as that in Part I
+
+
+-------------------------------------------------------------------------------------------
+
 ### <font color=Peru size=3> 田垠（北京师范大学） </font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Mar. 08, 2023</font>
@@ -137,18 +164,6 @@ Abstract: Higher dimensional Heegaard Floer homology (HDHF) is a higher dimensio
 
 -------------------------------------------------------------------------------------------
 
-
-
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 
 
