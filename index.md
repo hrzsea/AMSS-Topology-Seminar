@@ -108,14 +108,14 @@ Abstract:
 
 ### <font color=Peru size=3> Dylan Allegretti（清华大学） </font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Mar. 22, 2023</font>
+### <font color=LightCoral size=3>Time: 14：30-15：30, Mar. 22, 2023</font>
 
 Place: N802
 
-Title: 
+Title: Meromorphic differentials and Teichmüller space
 
 
-Abstract: 
+Abstract: In the late 1980s, Nigel Hitchin and Michael Wolf independently discovered a parametrization of the Teichmüller space of a compact surface by holomorphic quadratic differentials. In this talk, I will describe a generalization of their result where one replaces holomorphic differentials by meromorphic differentials. I will explain how this fits into an even more general story involving spaces of stability conditions and cluster varieties.
 
 -------------------------------------------------------------------------------------------
 
