@@ -97,10 +97,10 @@ Abstract:
 
 Place: N802
 
-Title: 
+Title: Unstable homotopy groups of indecomposable A_3^2-complexes
 
 
-Abstract: 
+Abstract: In this talk, I will introduce the methods for calculating the unstable homotopy groups of finite CW-complexes which builds on works of the relative James construction initiated by  B. Gray in  1973 and further developed by Yang, Mukai and  Wu  recently. Then I will introduce our works of using these methods to calculate the unstable homotopy groups of indecomposable A_n^2-complexes, which are elementary indecompsable homotopy type classified by by Chang in the 1950s. 
 
 
 -------------------------------------------------------------------------------------------
