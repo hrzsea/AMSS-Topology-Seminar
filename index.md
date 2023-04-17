@@ -11,7 +11,7 @@
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Jun. 21, 2023</font>
 
-Place: N802
+Place: N702
 
 Title: 
 
@@ -25,7 +25,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Jun. 14, 2023</font>
 
-Place: N802
+Place: N702
 
 Title: 
 
@@ -40,7 +40,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, May. 31, 2023</font>
 
-Place: N802
+Place: N702
 
 Title: 
 
@@ -55,7 +55,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, May. 24, 2023</font>
 
-Place: N802
+Place: N702
 
 Title: 
 
@@ -68,7 +68,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, May. 17, 2023</font>
 
-Place: N802
+Place: N702
 
 Title: 
 
@@ -81,29 +81,15 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 19, 2023</font>
 
-Place: N802
+Place: N702
 
-Title: 
-
-
-Abstract: 
+Title: Recent developments on random hyperbolic surfaces of large genus
 
 
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 朱中坚（温州大学） </font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Mar. 29, 2023</font>
-
-Place: 781-789-068
-
-Title: Unstable homotopy groups of indecomposable A_3^2-complexes
-
-
-Abstract: In this talk, I will introduce the methods for calculating the unstable homotopy groups of finite CW-complexes which builds on works of the relative James construction initiated by  B. Gray in  1973 and further developed by Yang, Mukai and  Wu  recently. Then I will introduce our works of using these methods to calculate the unstable homotopy groups of indecomposable A_n^2-complexes, which are elementary indecompsable homotopy type classified by by Chang in the 1950s. 
-
+Abstract: In this talk, we report several very recent asymptotic results on certain classical geometric quantities viewed as random variables on the moduli space of Riemann surfaces for large genus (and many cusps). This field was initiated by M. Mirzakhani in 2013. This talk is based on several joint works with Hugo Parlier, Xin Nie, Yang Shen and Yuhao Xue.
 
 -------------------------------------------------------------------------------------------
+
 
 
 
@@ -119,6 +105,19 @@ Abstract: In this talk, I will introduce the methods for calculating the unstabl
 
 -	Historical talks in this semester：
 
+### <font color=Peru size=3> 朱中坚（温州大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Mar. 29, 2023</font>
+
+Place: 781-789-068
+
+Title: Unstable homotopy groups of indecomposable A_3^2-complexes
+
+
+Abstract: In this talk, I will introduce the methods for calculating the unstable homotopy groups of finite CW-complexes which builds on works of the relative James construction initiated by  B. Gray in  1973 and further developed by Yang, Mukai and  Wu  recently. Then I will introduce our works of using these methods to calculate the unstable homotopy groups of indecomposable A_n^2-complexes, which are elementary indecompsable homotopy type classified by by Chang in the 1950s. 
+
+
+-------------------------------------------------------------------------------------------
 
 
 ### <font color=Peru size=3> Dylan Allegretti（清华大学） </font>
