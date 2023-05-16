@@ -70,23 +70,10 @@ Abstract:
 
 Place: N702
 
-Title: 
+Title: The earthquake metric
 
 
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 吴云辉（清华大学） </font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 19, 2023</font>
-
-Place: N702
-
-Title: Recent developments on random hyperbolic surfaces of large genus
-
-
-Abstract: In this talk, we report several very recent asymptotic results on certain classical geometric quantities viewed as random variables on the moduli space of Riemann surfaces for large genus (and many cusps). This field was initiated by M. Mirzakhani in 2013. This talk is based on several joint works with Hugo Parlier, Xin Nie, Yang Shen and Yuhao Xue.
+Abstract: Earthquakes are natural generalisations of Fenchel-Nielsen twists deformations on Teichmueller space, and Thurston’s remarkable earthquake theorem asserts that any hyperbolic metric on a given closed surface can be deformed to any other by a unique (left) earthquake. This was famously employed by Kerckhoff in his proof of the Nielsen realisation problem, which quickly cemented their importance in Teichmüller theory. Geometrically speaking, however, (long) Earthquake paths are far from being “twist efficient” - indeed, Mirzakhani shows that earthquake flows on Teichmüller space are measure conjugate to the horocyclic flow. Motivated by wishing to understand how one might efficiently “earthquake” between hyperbolic structures, we initiate the first systematic study of the earthquake metric—a Finsler metric first introduced in Thurston’s “Minimal stretch maps between hyperbolic surfaces” preprint, and discover surprising connections to both the Thurston metric and the Weil-Petersson metric. This is work in collaboration with K. Ohshika, H. Pan and A. Papadopoulos.
 
 -------------------------------------------------------------------------------------------
 
@@ -104,6 +91,22 @@ Abstract: In this talk, we report several very recent asymptotic results on cert
 -	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
 
 -	Historical talks in this semester：
+
+
+
+### <font color=Peru size=3> 吴云辉（清华大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Apr. 19, 2023</font>
+
+Place: N702
+
+Title: Recent developments on random hyperbolic surfaces of large genus
+
+
+Abstract: In this talk, we report several very recent asymptotic results on certain classical geometric quantities viewed as random variables on the moduli space of Riemann surfaces for large genus (and many cusps). This field was initiated by M. Mirzakhani in 2013. This talk is based on several joint works with Hugo Parlier, Xin Nie, Yang Shen and Yuhao Xue.
+
+-------------------------------------------------------------------------------------------
+
 
 ### <font color=Peru size=3> 朱中坚（温州大学） </font>
 
