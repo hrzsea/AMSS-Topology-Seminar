@@ -57,27 +57,12 @@ Abstract:
 
 Place: N702
 
-Title: 
+Title: Rationalization theories for non-nilpotent spaces and groups
 
 
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 黄意（清华大学） </font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, May. 17, 2023</font>
-
-Place: N702
-
-Title: The earthquake metric
-
-
-Abstract: Earthquakes are natural generalisations of Fenchel-Nielsen twists deformations on Teichmueller space, and Thurston’s remarkable earthquake theorem asserts that any hyperbolic metric on a given closed surface can be deformed to any other by a unique (left) earthquake. This was famously employed by Kerckhoff in his proof of the Nielsen realisation problem, which quickly cemented their importance in Teichmüller theory. Geometrically speaking, however, (long) Earthquake paths are far from being “twist efficient” - indeed, Mirzakhani shows that earthquake flows on Teichmüller space are measure conjugate to the horocyclic flow. Motivated by wishing to understand how one might efficiently “earthquake” between hyperbolic structures, we initiate the first systematic study of the earthquake metric—a Finsler metric first introduced in Thurston’s “Minimal stretch maps between hyperbolic surfaces” preprint, and discover surprising connections to both the Thurston metric and the Weil-Petersson metric. This is work in collaboration with K. Ohshika, H. Pan and A. Papadopoulos.
+Abstract: We give an overview of five rationalization theories for non-nilpotent spaces (Bousfield–Kan’s Q-completion; Sullivan’s rationalization; Bousfield’s homology rationalization; Casacuberta– Peschke’sΩ-rationalization; G´omez-Tato–Halperin–Tanr´e’s π_1- fiberwise rationalization) that extend the classical rationalization of simply connected spaces. We also give an overview of the corresponding rationalization theories for groups (Q-completion; HQ-localization; Baumslag rationalization) that extend the classical Malcev completion. In addition, we will tell about our results on the rationalization of the wedge of two circles for all these types of rationalisations.
 
 -------------------------------------------------------------------------------------------
-
-
 
 
 
@@ -92,6 +77,19 @@ Abstract: Earthquakes are natural generalisations of Fenchel-Nielsen twists defo
 
 -	Historical talks in this semester：
 
+
+### <font color=Peru size=3> 黄意（清华大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, May. 17, 2023</font>
+
+Place: N702
+
+Title: The earthquake metric
+
+
+Abstract: Earthquakes are natural generalisations of Fenchel-Nielsen twists deformations on Teichmueller space, and Thurston’s remarkable earthquake theorem asserts that any hyperbolic metric on a given closed surface can be deformed to any other by a unique (left) earthquake. This was famously employed by Kerckhoff in his proof of the Nielsen realisation problem, which quickly cemented their importance in Teichmüller theory. Geometrically speaking, however, (long) Earthquake paths are far from being “twist efficient” - indeed, Mirzakhani shows that earthquake flows on Teichmüller space are measure conjugate to the horocyclic flow. Motivated by wishing to understand how one might efficiently “earthquake” between hyperbolic structures, we initiate the first systematic study of the earthquake metric—a Finsler metric first introduced in Thurston’s “Minimal stretch maps between hyperbolic surfaces” preprint, and discover surprising connections to both the Thurston metric and the Weil-Petersson metric. This is work in collaboration with K. Ohshika, H. Pan and A. Papadopoulos.
+
+-------------------------------------------------------------------------------------------
 
 
 ### <font color=Peru size=3> 吴云辉（清华大学） </font>
