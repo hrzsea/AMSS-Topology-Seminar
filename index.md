@@ -3,13 +3,41 @@
 ### Spring Semester 2023
 
 -------------------------------------------------------------------------------------------
+## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
+
+
+### <font color=Peru size=3> 胡润杰（） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Jun. 28, 2023</font>
+
+Place: N702
+
+Title: 
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
 
 
+### <font color=Peru size=3> 胡瑛（Nebraska University） </font>
+
+### <font color=LightCoral size=3>Time: 15：30-16：30, Jun. 21, 2023</font>
+
+Place: N702
+
+Title: 
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
 ### <font color=Peru size=3> 蔡力（西交利物浦大学） </font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Jun. 21, 2023</font>
+### <font color=LightCoral size=3>Time: 14：30-15：30, Jun. 21, 2023</font>
 
 Place: N702
 
@@ -42,12 +70,24 @@ Abstract:
 
 Place: N702
 
-Title: 
+Title: 广义构型空间在Borsuk-Ulam定理推广上的应用
 
 
-Abstract: 
+Abstract: 令 M 为向量空间或者射影空间的子集。报告人及其合作者定义了 M 的广义构型空间，该空间由 M 中元素的 n-元组构成，要求其中任意 k 个元素线性无关。 作为广义构型空间的应用，报告人推广了经典的Borsuk-Ulam 定理。报告人证明了，对于某些连续映射，存在着另外一对非对径点在映射下的像相同。这给出了经典Borsuk-Ulam 定理与Yang-Bourgin 定理的更强形式，这其中利用的主要工具为Fadell定义的取值在理想的上同调指标。实际上，通过利用这个指标，我们同样得到了一些条件，来判断哪些点在球面到欧氏空间映射下的像相同。
 
 -------------------------------------------------------------------------------------------
+
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
 
 
 
@@ -64,18 +104,6 @@ Abstract: We give an overview of five rationalization theories for non-nilpotent
 
 -------------------------------------------------------------------------------------------
 
-
-
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 
 ### <font color=Peru size=3> 黄意（清华大学） </font>
