@@ -19,9 +19,6 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
-## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
-
-
 ### <font color=Peru size=3> 胡瑛（Nebraska University） </font>
 
 ### <font color=LightCoral size=3>Time: 15：30-16：30, Jun. 21, 2023</font>
