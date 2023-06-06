@@ -57,7 +57,29 @@ Title:
 
 Abstract: 
 
+
+### <font color=Peru size=3> 王怡 (Stony Brook） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, May. 31, 2023</font>
+
+Place: MCM110
+
+Title: String topology, cyclic homology, and the Fukaya A-infinity algebra
+Abstract: First, I will describe a new chain model of the (based and free) loop space of a path-connected topological space X, defined using the fundamental groupoid of X, which can be viewed as a generalization of classical theorems of J. F. Adams and K-T Chen. Then I will combine this model with a Jones' type theorem on cyclic homology and S^1 equivariant homology, as well as K. Irie's work on string topology, to describe chain level string topology operations in the S^1-equivariant setting, in particular, chain level string bracket (cyclic loop bracket). Finally, I will use this chain model to lift the Fukaya A-infinity algebra of a Lagrangian submanifold L to a Maurer-Cartan element in the dg Lie algebra of cyclic invariant chains on the free loop space of L, and discuss applications in symplectic topology.
+
 -------------------------------------------------------------------------------------------
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
 
 
 
@@ -73,19 +95,6 @@ Title: 广义构型空间在Borsuk-Ulam定理推广上的应用
 Abstract: 令 M 为向量空间或者射影空间的子集。报告人及其合作者定义了 M 的广义构型空间，该空间由 M 中元素的 n-元组构成，要求其中任意 k 个元素线性无关。 作为广义构型空间的应用，报告人推广了经典的Borsuk-Ulam 定理。报告人证明了，对于某些连续映射，存在着另外一对非对径点在映射下的像相同。这给出了经典Borsuk-Ulam 定理与Yang-Bourgin 定理的更强形式，这其中利用的主要工具为Fadell定义的取值在理想的上同调指标。实际上，通过利用这个指标，我们同样得到了一些条件，来判断哪些点在球面到欧氏空间映射下的像相同。
 
 -------------------------------------------------------------------------------------------
-
-
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
-
 
 
 ### <font color=Peru size=3> Sergei Ivanov（BIMSA） </font>
