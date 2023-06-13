@@ -52,24 +52,11 @@ Abstract:
 
 Place: N702
 
-Title: 
+Title: From Stanley-Reisner Ring to Topological Face Ring
 
 
-Abstract: 
+Abstract: We introduce how the Stanley-Reisner ring of a simplicial complex can be understood from algebraic topology viewpoints via some spaces arising in toric topology. This reveals some interesting connections between commutative algebras and algebraic topology. Then we explain how the topological interpretation of Stanley-Reisner rings leads to the definition of topological face ring of a nice manifold with corners (and more generally a space with abstract faces).
 
-
--------------------------------------------------------------------------------------------
-
-
-
-### <font color=Peru size=3> 王怡 (Stony Brook） </font>
-
-### <font color=LightCoral size=3>Time: 14：00-15：00, Jun. 7, 2023</font>
-
-Place: MCM110
-
-Title: String topology, cyclic homology, and the Fukaya A-infinity algebra
-Abstract: First, I will describe a new chain model of the (based and free) loop space of a path-connected topological space X, defined using the fundamental groupoid of X, which can be viewed as a generalization of classical theorems of J. F. Adams and K-T Chen. Then I will combine this model with a Jones' type theorem on cyclic homology and S^1 equivariant homology, as well as K. Irie's work on string topology, to describe chain level string topology operations in the S^1-equivariant setting, in particular, chain level string bracket (cyclic loop bracket). Finally, I will use this chain model to lift the Fukaya A-infinity algebra of a Lagrangian submanifold L to a Maurer-Cartan element in the dg Lie algebra of cyclic invariant chains on the free loop space of L, and discuss applications in symplectic topology.
 
 -------------------------------------------------------------------------------------------
 
@@ -84,6 +71,19 @@ Abstract: First, I will describe a new chain model of the (based and free) loop 
 
 -	Historical talks in this semester：
 
+
+
+
+### <font color=Peru size=3> 王怡 (Stony Brook） </font>
+
+### <font color=LightCoral size=3>Time: 14：00-15：00, Jun. 7, 2023</font>
+
+Place: MCM110
+
+Title: String topology, cyclic homology, and the Fukaya A-infinity algebra
+Abstract: First, I will describe a new chain model of the (based and free) loop space of a path-connected topological space X, defined using the fundamental groupoid of X, which can be viewed as a generalization of classical theorems of J. F. Adams and K-T Chen. Then I will combine this model with a Jones' type theorem on cyclic homology and S^1 equivariant homology, as well as K. Irie's work on string topology, to describe chain level string topology operations in the S^1-equivariant setting, in particular, chain level string bracket (cyclic loop bracket). Finally, I will use this chain model to lift the Fukaya A-infinity algebra of a Lagrangian submanifold L to a Maurer-Cartan element in the dg Lie algebra of cyclic invariant chains on the free loop space of L, and discuss applications in symplectic topology.
+
+-------------------------------------------------------------------------------------------
 
 
 
