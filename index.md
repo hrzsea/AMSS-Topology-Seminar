@@ -6,7 +6,7 @@
 ## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
 
 
-### <font color=Peru size=3> 胡润杰（） </font>
+### <font color=Peru size=3> 胡润杰（Stony Brook） </font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Jun. 28, 2023</font>
 
