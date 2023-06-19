@@ -25,10 +25,12 @@ Abstract:
 
 Place: N702
 
-Title: 
+Title: Slope detections and the L-space Conjecture for toroidal 3-manifolds
 
 
-Abstract: 
+Abstract: The L-space conjecture connects topological (taut foliations), analytic (Floer invariants), and algebraic (orderability of groups) properties of 3-manifolds, which has been a very popular topic in low dimensional topology. In this talk, we will introduce the notion of slope detections, and show results to demonstrate how slope detection is powerful notion to study the L-space conjecture for toroidal 3-manifolds.
+
+This is joint work with Steve Boyer and Cameron Gordon.
 
 -------------------------------------------------------------------------------------------
 
@@ -38,12 +40,24 @@ Abstract:
 
 Place: N702
 
-Title: 
+Title: On the loop spaces of certain polyhedral products
 
 
-Abstract: 
+Abstract: A polyhedral product X of given topological spaces is a special subspace of their cartesian product, which is determined by a simplicial complex K. As a special case when K is a disjoint union of its vertices, X is a wedge sum. Moreover, every moment-angle manifold is homotopy equivalent to the homotopy fiber F of the inclusion of such a polyhedral product into the corresponding cartesian product. In this talk we show some recent progress on the homotopy and homology the loop spaces of general X and F, together with some relationships with simplicial groups and Hopf algebras.
 
 -------------------------------------------------------------------------------------------
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
 
 
 ### <font color=Peru size=3> 于立（南京大学） </font>
@@ -59,18 +73,6 @@ Abstract: We introduce how the Stanley-Reisner ring of a simplicial complex can 
 
 
 -------------------------------------------------------------------------------------------
-
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
-
 
 
 
