@@ -8,16 +8,29 @@
 
 ### <font color=Peru size=3> 胡润杰（Stony Brook） </font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Jun. 28, 2023</font>
+### <font color=LightCoral size=3>Time: 14：00-15：10, Jun. 28, 2023</font>
 
 Place: N702
 
-Title: 
+Title: Algebraic Model of Manifolds
 
 
-Abstract: 
+Abstract: The surgery theory of dimension at least 5 stayed in the central position of classification of manifolds in the last century. In 1970s, Ranicki invented the cosheaf theory of derived quadratic forms to give an algebraic discription of the existence of high dimensional manifolds over a fixed homotopy type and the homotopy manifold classifications. On the other hand, we could understand a homotopy type by passage to rational and p-adic information. Quillen and Sullivan individually developed the rational homotopy theories. Sullivan sketched the approach to algebraize simply connected rational manifolds, i.e., a free dga over Q together with a Poincare duality and several rational Pontryagin classes, and Zhixu Su completed the proof in her thesis. About two decades ago, Mandell proved that  E-inifinity algebras over Fp-bar canb be the algebraic models of p-adic nilpotent homotopy types. Five years ago, Rivera and Zeinalian showed that the cobar construction of coalgebras could give algebraic models of integral homotopy types. We want to generalize Sullivan's rational discussion of manifolds to give algebraic models of manifolds. The project is still in progress but  I will talk about our recent work of 2-adic discussion of Ranicki's theory and one application of this powerful theory to understand Galois actions on smooth complex varieties.
 
 -------------------------------------------------------------------------------------------
+
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
 
 ### <font color=Peru size=3> 胡瑛（Nebraska University） </font>
 
@@ -46,19 +59,6 @@ Title: On the loop spaces of certain polyhedral products
 Abstract: A polyhedral product X of given topological spaces is a special subspace of their cartesian product, which is determined by a simplicial complex K. As a special case when K is a disjoint union of its vertices, X is a wedge sum. Moreover, every moment-angle manifold is homotopy equivalent to the homotopy fiber F of the inclusion of such a polyhedral product into the corresponding cartesian product. In this talk we show some recent progress on the homotopy and homology the loop spaces of general X and F, together with some relationships with simplicial groups and Hopf algebras.
 
 -------------------------------------------------------------------------------------------
-
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
-
-
 
 ### <font color=Peru size=3> 于立（南京大学） </font>
 
