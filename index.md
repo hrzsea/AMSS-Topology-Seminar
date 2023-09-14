@@ -7,6 +7,104 @@
 
 
 
+### <font color=Peru size=3> 杨聚鑫（BIMSA） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Jan. 10, 2024 </font>
+
+Place: N802
+
+Title: 
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 付鑫（BIMSA） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 27, 2023 </font>
+
+Place: N802
+
+Title: 
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+
+
+### <font color=Peru size=3> 周嘉伟（BIMSA） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 20, 2023 </font>
+
+Place: N802
+
+Title: 
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 林剑锋（清华大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 06, 2023 </font>
+
+Place: N802
+
+Title: 
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+### <font color=Peru size=3> 孙善忠（首都师范大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 22, 2023 </font>
+
+Place: N802
+
+Title: 
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+
+
+### <font color=Peru size=3> 袁天宇（北京大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 01, 2023 </font>
+
+Place: N802
+
+Title: 
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 谢羿（北京大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 25, 2023 </font>
+
+Place: N802
+
+Title: 
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
 ### <font color=Peru size=3> 李谷川（北京大学） </font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 18, 2023 </font>
@@ -40,10 +138,10 @@ Abstract:
 
 Place: N802
 
-Title: 
+Title: Topological classification of Bazaikin spaces
 
 
-Abstract: 
+Abstract: Manifolds with positive sectional curvature have been a central object dates back to the beginning of Riemannian geometry. Up to homeomorphism, there are only finitely many examples of simply connected positively curved manifolds in all dimensions except in dimension 7 and 13, namely, Aloff-Wallach spaces and Eschenburg spaces in dimension 7, and the Bazaikin spaces in dimension 13. The topological classification modelled on the 7-dimensional examples has been carried out by Kreck-Stolz which leads to a complete solution for the Aloff-Wallach spaces. The main goal of this talk is the topological classification of 13-dimensional manifolds modelled on the Bazaikin spaces. 
 
 -------------------------------------------------------------------------------------------
 
