@@ -64,6 +64,22 @@ Abstract:
 
 
 
+### <font color=Peru size=3> 邹佛灵（AMSS） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 29, 2023 </font>
+
+Place: N802
+
+Title: 
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+
+
+
 ### <font color=Peru size=3> 孙善忠（首都师范大学） </font>
 
 ### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 22, 2023 </font>
@@ -132,16 +148,17 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3> 沈文（首都师范大学） </font>
+### <font color=Peru size=3> 陈伟彦（清华大学） </font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Sep. 20, 2023 </font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Sep. 27, 2023 </font>
 
 Place: N802
 
-Title: Topological classification of Bazaikin spaces
+Title: Topological complexity of enumerative problems
 
 
-Abstract: Manifolds with positive sectional curvature have been a central object dates back to the beginning of Riemannian geometry. Up to homeomorphism, there are only finitely many examples of simply connected positively curved manifolds in all dimensions except in dimension 7 and 13, namely, Aloff-Wallach spaces and Eschenburg spaces in dimension 7, and the Bazaikin spaces in dimension 13. The topological classification modelled on the 7-dimensional examples has been carried out by Kreck-Stolz which leads to a complete solution for the Aloff-Wallach spaces. The main goal of this talk is the topological classification of 13-dimensional manifolds modelled on the Bazaikin spaces. 
+Abstract: How complex is the solution of a polynomial equation? One way to measure such complexity is provided by topological complexity in the sense of Smale, who proved that any algorithm that finds roots of a polynomial must be sufficiently complicated. However, finding roots of a polynomial is just one basic example of enumerative problems in algebraic geometry. In this talk, we will consider the problem of finding flex points on smooth cubic plane curves. We prove a lower bound for the topological complexity of this problem, and show that our bound is close to be best possible. This talk is based on joint work with Zheyan Wan.
+ 
 
 -------------------------------------------------------------------------------------------
 
@@ -158,6 +175,22 @@ Abstract: Manifolds with positive sectional curvature have been a central object
 -	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
 
 -	Historical talks in this semester：
+
+
+
+### <font color=Peru size=3> 沈文（首都师范大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Sep. 20, 2023 </font>
+
+Place: N802
+
+Title: Topological classification of Bazaikin spaces
+
+
+Abstract: Manifolds with positive sectional curvature have been a central object dates back to the beginning of Riemannian geometry. Up to homeomorphism, there are only finitely many examples of simply connected positively curved manifolds in all dimensions except in dimension 7 and 13, namely, Aloff-Wallach spaces and Eschenburg spaces in dimension 7, and the Bazaikin spaces in dimension 13. The topological classification modelled on the 7-dimensional examples has been carried out by Kreck-Stolz which leads to a complete solution for the Aloff-Wallach spaces. The main goal of this talk is the topological classification of 13-dimensional manifolds modelled on the Bazaikin spaces. 
+
+-------------------------------------------------------------------------------------------
+
 
 
 
