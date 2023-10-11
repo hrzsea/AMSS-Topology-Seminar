@@ -147,12 +147,27 @@ Abstract:
 
 Place: N802
 
-Title: 
+Title: The inverse topology of $K(n)$-local homotopy theory
 
 
-Abstract: 
+Abstract: Homotopy theory can be studied through its $p$-localization for all primes $p$. Chromatic homotopy theory allows one to further decompose $p$-local homotopy theory into $K(n)$-local homotopy theory for all heights $n$. In this talk, we introduce an inverse topology on $K(n)$-local homotopy theory. This allow us to identify the entire E1 and E2-pages of the descent spectral sequence for Picard groups of profinite Galois extensions of the $K(n)$-local sphere. This is joint work with Ningchuan Zhang.
 
 -------------------------------------------------------------------------------------------
+
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Tianyuan Topology Seminar 2023](https://hrzsea.github.io/Tianyuan-Topology-2023/)
+-	[Spring Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Spring/) 
+-	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
+
 
 
 ### <font color=Peru size=3> 陈伟彦（清华大学） </font>
@@ -169,19 +184,6 @@ Abstract: How complex is the solution of a polynomial equation? One way to measu
 
 -------------------------------------------------------------------------------------------
 
-
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Tianyuan Topology Seminar 2023](https://hrzsea.github.io/Tianyuan-Topology-2023/)
--	[Spring Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Spring/) 
--	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 
 
