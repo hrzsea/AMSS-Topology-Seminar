@@ -134,23 +134,10 @@ Abstract:
 
 Place: N802
 
-Title: 
+Title: From the real cobordism theory to the Kervaire invariant one problem
 
 
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 李谷川（北京大学） </font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 11, 2023</font>
-
-Place: N802
-
-Title: The inverse topology of $K(n)$-local homotopy theory
-
-
-Abstract: Homotopy theory can be studied through its $p$-localization for all primes $p$. Chromatic homotopy theory allows one to further decompose $p$-local homotopy theory into $K(n)$-local homotopy theory for all heights $n$. In this talk, we introduce an inverse topology on $K(n)$-local homotopy theory. This allow us to identify the entire E1 and E2-pages of the descent spectral sequence for Picard groups of profinite Galois extensions of the $K(n)$-local sphere. This is joint work with Ningchuan Zhang.
+Abstract: The real cobordism theory plays an important role in Hill—Hopkins—Ravenel’s solution to the Kervaire invariant one problem and leads to new computations in chromatic homotopy theory at the prime 2. I will report on my joint work in progress with Po Hu, Igor Kriz, Petr Somberg, and Foling Zou on the construction of odd prime analogues of real cobordism theory.
 
 -------------------------------------------------------------------------------------------
 
@@ -168,6 +155,19 @@ Abstract: Homotopy theory can be studied through its $p$-localization for all pr
 -	Historical talks in this semester：
 
 
+
+### <font color=Peru size=3> 李谷川（北京大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 11, 2023</font>
+
+Place: N802
+
+Title: The inverse topology of $K(n)$-local homotopy theory
+
+
+Abstract: Homotopy theory can be studied through its $p$-localization for all primes $p$. Chromatic homotopy theory allows one to further decompose $p$-local homotopy theory into $K(n)$-local homotopy theory for all heights $n$. In this talk, we introduce an inverse topology on $K(n)$-local homotopy theory. This allow us to identify the entire E1 and E2-pages of the descent spectral sequence for Picard groups of profinite Galois extensions of the $K(n)$-local sphere. This is joint work with Ningchuan Zhang.
+
+-------------------------------------------------------------------------------------------
 
 
 ### <font color=Peru size=3> 陈伟彦（清华大学） </font>
