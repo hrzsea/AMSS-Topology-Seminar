@@ -100,6 +100,40 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
+### <font color=Peru size=3> Taras Panov (Moscow State University) </font>
+
+### <font color=LightCoral size=3>Time: 15：30-16：30, Nov. 15, 2023 </font>
+
+Place: N802
+
+Title: Complex geometry of moment-angle manifolds
+
+Abstract: Moment-angle manifolds provide a wide class of examples of non-Kaehler compact complex manifolds with a holomorphic torus action. A complex structure on a moment-angle manifold Z is defined by a marked complete simplicial fan. When the fan is rational, the manifold Z is the total space of a holomorphic bundle over a toric variety with fibres compact complex tori. In this case, the invariants of the complex structure of Z, such Dolbeault cohomology and the Hodge numbers, can be analysed using the Borel spectral sequence of the holomorphic bundle. 
+
+In general, a complex moment-angle manifold Z is equipped with a canonical holomorphic foliation F which is equivariant with respect to the algebraic torus action. Examples of moment-angle manifolds include the Hopf manifolds, Calabi-Eckmann manifolds, and their deformations. The holomorphic foliated manifolds (Z,F) are models for irrational toric varieties.
+
+We describe the basic de Rhama and Dolbeault cohomology algebras of the canonical holomorphic foliation on a moment-angle manifold, LVMB-manifold or any complex manifold with a maximal holomorphic torus action. Namely, we show that the basic cohomology has a description similar to the cohomology algebra of a complete simplicial toric variety due to Danilov and Jurkiewicz. This settles a question of Battaglia and Zaffran, who previously computed the basic Betti numbers for the canonical holomorphic foliation in the case of a shellable fan. Our proof uses an Eilenberg-Moore spectral sequence argument; the key ingredient is the formality of the Cartan model for the torus action on a moment-angle manifold. We develop the concept of transverse equivalence and bring it to bear on the study of smooth and holomorphic foliated manifolds. For an arbitrary complex manifold with a maximal torus action, we show that it is transverse equivalent to a moment-angle manifold and therefore has the same basic cohomology.
+
+We also provide a DGA model for the ordinary Dolbeault cohomology algebra of Z. The Hodge decomposition for the basic Dolbeault cohomology is proved by reducing to the transversely Kaehler (equivalently, polytopal) case using a foliated analogue of toric blow-up.
+
+The talk is based on joint works with Hiroaki Ishida and Roman Krutowski.
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> 刘毅 (北京大学) </font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 15, 2023 </font>
+
+Place: N802
+
+Title: 
+
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
 
 
 ### <font color=Peru size=3> 袁天宇（北京大学） </font>
@@ -108,36 +142,10 @@ Abstract:
 
 Place: N802
 
-Title: 
+Title: A link invariant from higher-dimensional Heegaard Floer homology
 
 
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 谢羿（北京大学） </font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 25, 2023 </font>
-
-Place: N802
-
-Title: 
-
-
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 李谷川（北京大学） </font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 18, 2023 </font>
-
-Place: N802
-
-Title: From the real cobordism theory to the Kervaire invariant one problem
-
-
-Abstract: The real cobordism theory plays an important role in Hill—Hopkins—Ravenel’s solution to the Kervaire invariant one problem and leads to new computations in chromatic homotopy theory at the prime 2. I will report on my joint work in progress with Po Hu, Igor Kriz, Petr Somberg, and Foling Zou on the construction of odd prime analogues of real cobordism theory.
+Abstract: We define a higher-dimensional analogue of symplectic Khovanov homology. Consider the standard Lefschetz fibration of a 2n-dimensional Milnor fiber of the A_{k-1} singularity. We represent a link by a k-strand braid, which is expressed as an element of the symplectic mapping class group. We then apply the higher-dimensional Heegaard Floer homology machinery to this element. We prove its invariance under arc slides and Markov stabilizations, which shows that it is a link invariant.
 
 -------------------------------------------------------------------------------------------
 
@@ -154,6 +162,31 @@ Abstract: The real cobordism theory plays an important role in Hill—Hopkins—
 
 -	Historical talks in this semester：
 
+### <font color=Peru size=3> 谢羿（北京大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 25, 2023 </font>
+
+Place: N802
+
+Title: Configuration space integral, graph cohomology and the diffeomorphism groups of 4-manifolds
+
+
+Abstract: In 2018, Watanabe used a version of configuration space  integral to detect non-trivial smooth families of disk bundles and disproved the 4-dimensional Smale conjecture. More precisely, he related the homotopy groups of Diff(D^4) to the so called graph cohomology. In this talk we will show that the configuration space integral only depends the formal smooth structure, i.e. a lift of the tangent microbundle to a vector bundle. As an application, we can generalize Watanabe’s result and obtain information on the diffeomorphism group of a general compact oriented 4-manifold in terms of the graph cohomology. This is joint work with Jianfeng Lin.
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 李谷川（北京大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 18, 2023 </font>
+
+Place: N802
+
+Title: From the real cobordism theory to the Kervaire invariant one problem
+
+
+Abstract: The real cobordism theory plays an important role in Hill—Hopkins—Ravenel’s solution to the Kervaire invariant one problem and leads to new computations in chromatic homotopy theory at the prime 2. I will report on my joint work in progress with Po Hu, Igor Kriz, Petr Somberg, and Foling Zou on the construction of odd prime analogues of real cobordism theory.
+
+-------------------------------------------------------------------------------------------
 
 
 ### <font color=Peru size=3> 李谷川（北京大学） </font>
