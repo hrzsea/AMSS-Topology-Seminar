@@ -89,16 +89,29 @@ Abstract:
 
 ### <font color=Peru size=3> 孙善忠（首都师范大学） </font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 22, 2023 </font>
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 22, 2023 </font>
 
 Place: N802
 
-Title: 
+Title: Modularity of WRT invariants via resurgence theory
 
 
-Abstract: 
+Abstract: We will talk about the (quantum) modularity of WRT invariants or GPPV invariants in general of Seifert fibered homology spheres. It turns out that they are related to the Stokes phenomena of the Ohtsuki asymptotic series through resurgence theory. The talk is based on joint work with Li HAN, Yong LI and David SAUZIN.
 
 -------------------------------------------------------------------------------------------
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Tianyuan Topology Seminar 2023](https://hrzsea.github.io/Tianyuan-Topology-2023/)
+-	[Spring Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Spring/) 
+-	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
 
 ### <font color=Peru size=3> Taras Panov (Moscow State University) </font>
 
@@ -127,10 +140,10 @@ The talk is based on joint works with Hiroaki Ishida and Roman Krutowski.
 
 Place: N802
 
-Title: 
+Title: Hempel pairs and Turaev Viro Invariants
 
 
-Abstract: 
+Abstract: Hempel pairs are pairs of periodic surface bundles with isomorphic profinite completions of the fundamental group. In this talk, I will discuss whether Hempel pairs have identical Turaev Viro invariants.
 
 -------------------------------------------------------------------------------------------
 
@@ -149,18 +162,6 @@ Abstract: We define a higher-dimensional analogue of symplectic Khovanov homolog
 
 -------------------------------------------------------------------------------------------
 
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Tianyuan Topology Seminar 2023](https://hrzsea.github.io/Tianyuan-Topology-2023/)
--	[Spring Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Spring/) 
--	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 ### <font color=Peru size=3> 谢羿（北京大学） </font>
 
