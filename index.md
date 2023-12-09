@@ -44,7 +44,7 @@ Abstract:
 
 ### <font color=Peru size=3> 周嘉伟（BIMSA） </font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 20, 2023 </font>
+### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 20, 2023 </font>
 
 Place: N802
 
@@ -55,16 +55,30 @@ Abstract:
 
 -------------------------------------------------------------------------------------------
 
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+-	[Tianyuan Topology Seminar 2023](https://hrzsea.github.io/Tianyuan-Topology-2023/)
+-	[Spring Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Spring/) 
+-	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
+
+
 ### <font color=Peru size=3> 林剑锋（清华大学） </font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 06, 2023 </font>
+### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 06, 2023 </font>
 
 Place: N802
 
-Title: 
+Title: On configuration space integrals
 
 
-Abstract: 
+Abstract: In this talk, I will first recall the configuration space integral for classical knots, a powerful invariant first proposed by Kontsevich and further studied by many people including Bott, Taubes and Thurston. Then I will talk about Watanabe's work on the 4-dimensional Smale conjecture on the diffeomorphism group of disks. In the end, I will briefly discuss a joint work with Yi Xie regarding relation between configuration space integral and formal smooth structures. This gives an evidence towards a more general conjecture about the relation between configuration space integrals, little disk operad and embedding calculus.
 
 -------------------------------------------------------------------------------------------
 
@@ -77,10 +91,14 @@ Abstract:
 
 Place: N802
 
-Title: 
+Title: Unital operads, monoids and monads
 
 
-Abstract: 
+Abstract: Operads have played an important role in both topology and algebra. It
+is well known that operads may be viewed as monoids in symmetric sequences. In
+topology, it is often sensible to work with unital operads and their (reduced) monads.
+I will discuss a variant of symmetric sequences monoids in which give unital operads.
+This is joint work with Peter May and Ruoqi Zhang.
 
 -------------------------------------------------------------------------------------------
 
@@ -99,18 +117,6 @@ Title: Modularity of WRT invariants via resurgence theory
 Abstract: We will talk about the (quantum) modularity of WRT invariants or GPPV invariants in general of Seifert fibered homology spheres. It turns out that they are related to the Stokes phenomena of the Ohtsuki asymptotic series through resurgence theory. The talk is based on joint work with Li HAN, Yong LI and David SAUZIN.
 
 -------------------------------------------------------------------------------------------
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
--	[Tianyuan Topology Seminar 2023](https://hrzsea.github.io/Tianyuan-Topology-2023/)
--	[Spring Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Spring/) 
--	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 
 ### <font color=Peru size=3> Taras Panov (Moscow State University) </font>
