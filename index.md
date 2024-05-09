@@ -19,7 +19,56 @@
 
 ### <font color=LightCoral size=3>Time: 10：00-11：00, Jul. 10, 2024 </font>
 
-Place: N802
+Place: N402
+
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3>   陈冠亨 （深圳大学） </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, Jul. 03, 2024 </font>
+
+Place: N402
+
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3>   周嘉伟（BIMSA） </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, Jun. 26, 2024 </font>
+
+Place: N402
+
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3>   吕志（复旦大学） </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, Jun. 19, 2024 </font>
+
+Place: N402
+
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 雷逢春（大连理工） </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, Jun. 19, 2024 </font>
+
+Place: N402
 
 Title: 
 
@@ -31,7 +80,19 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 10：00-11：00, Jun. 12, 2024 </font>
 
-Place: N802
+Place: N402
+
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3>  赵嘉恒 </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, Jun. 05, 2024 </font>
+
+Place: N402
 
 Title: 
 
@@ -43,7 +104,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 10：00-11：00, May 29, 2024 </font>
 
-Place: N802
+Place: N402
 
 Title: 
 
@@ -56,7 +117,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 10：00-11：00, May 22, 2024 </font>
 
-Place: N802
+Place: N402
 
 Title: 
 
@@ -69,51 +130,11 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 10：00-11：00, May 15, 2024 </font>
 
-Place: N802
+Place: N402
 
-Title: 
+Title: Vanishing cycles for symplectic foliations
 
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3>   程志云（北京师范大学） </font>
-
-### <font color=LightCoral size=3>Time: 10：00-11：00, May 08, 2024 </font>
-
-Place: N802
-
-Title: 
-
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-
-
-### <font color=Peru size=3>  王中子（北京大学） </font>
-
-### <font color=LightCoral size=3>Time: 10：00-11：00, Apr. 24, 2024 </font>
-
-Place: N802
-
-Title: 
-
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-
-
-### <font color=Peru size=3>  杨文元（北京大学） </font>
-
-### <font color=LightCoral size=3>Time: 10：00-11：00, Apr. 10, 2024 </font>
-
-Place: N802
-
-Title: Confined subgroups in groups with contracting elements
-
-Abstract: In this talk, we study confined subgroups in groups with contracting elements. This class of subgroups generalizes normal subgroups and has recently received many interests in semi-simple Lie groups. We shall focus on growth of confined subgroups and their relation with conservative action on boundary. Our results apply to fundamental groups of Riemannian manifolds with negative curvature and mapping class groups. This represents a joint work with Inheyok Choi, Ilya Gekhtman, and Tianyi Zheng.
+Abstract: The main objects of the talk will be symplectic foliations, and more precisely a subclass of these called "strong". Strong symplectic foliations are meant to be one of the possible rigid generalizations of taut foliations to high dimensions, and indeed have quite a rigid nature, with techniques such as pseudo-holomorphic curves à la Gromov and asymptotically holomorphic sequences of sections à la Donaldson working well in this setting. I will present a joint work in progress with Klaus Niederkrüger and Lauran Toussaint that aims at giving a new obstruction for a symplectic foliation to be strong. This comes in the form of a symplectic high-dimensional version of vanishing cycles for smooth codimension 1 foliations on 3-manifolds, and the proof relies on pseudo-holomorphic curve techniques, in a way which is parallel to the case of the Plastikstufe introduced by Niederkrüger '06 in the contact case.
 
 -------------------------------------------------------------------------------------------
 
@@ -134,6 +155,46 @@ Abstract: In this talk, we study confined subgroups in groups with contracting e
 -	Historical talks in this semester：
 
 
+
+### <font color=Peru size=3>   程志云（北京师范大学） </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, May 08, 2024 </font>
+
+Place: N602
+
+Title: Partial-dual genus polynomial and its categorification
+
+Abstract: The partial-dual genus polynomial of a ribbon graph is the generating function that enumerates all partial duals of the ribbon graph. In this talk, I will give a quick introduction to this polynomial and discuss the categorification of it. This is a joint work with Ziyi Lei.
+
+-------------------------------------------------------------------------------------------
+
+
+
+### <font color=Peru size=3>  王中子（北京大学） </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, Apr. 24, 2024 </font>
+
+Place: N802
+
+Title: Cobordisms with controlled fundamental groups
+
+Abstract: Given n-dimensional manifolds X and Y, a cobordism between them is an (n+1)-dimensional manifolds W whose boundary is the disjoint union of  X and Y. With no extra constraints on W, existence problem has been resolved by the work of Pontryagin and Thom. However, the problem is more difficult if one puts extra constrains on the topology of W (e.g. its homology or homotopy groups). In this talk, I will discuss our recent work about pi-1 injective cobordisms, which is a generalization of boundary-incompressible 3-manifolds. We will also give some applications about finite group actions on 4-manifolds with isolated fixed points. This is a joint work with 林剑锋 (清华大学）
+
+-------------------------------------------------------------------------------------------
+
+
+
+### <font color=Peru size=3>  杨文元（北京大学） </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, Apr. 10, 2024 </font>
+
+Place: N802
+
+Title: Confined subgroups in groups with contracting elements
+
+Abstract: In this talk, we study confined subgroups in groups with contracting elements. This class of subgroups generalizes normal subgroups and has recently received many interests in semi-simple Lie groups. We shall focus on growth of confined subgroups and their relation with conservative action on boundary. Our results apply to fundamental groups of Riemannian manifolds with negative curvature and mapping class groups. This represents a joint work with Inheyok Choi, Ilya Gekhtman, and Tianyi Zheng.
+
+-------------------------------------------------------------------------------------------
 
 
 ### <font color=Peru size=3> Agustin Moreno （Heidelberg） </font>
