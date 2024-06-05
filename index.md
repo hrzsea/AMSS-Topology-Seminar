@@ -94,9 +94,9 @@ Abstract:
 
 Place: N602
 
-Title: 
+Title: Vanishing lines and periodicities in higher real K-theories
 
-Abstract: 
+Abstract: Higher real K-theories generalize topological K-theory, reflecting the beautiful periodic phenomena of stable homotopy groups of spheres and detecting numerous important elements within. In this talk, I will demonstrate that the homotopy fixed point spectral sequences, which compute their homotopy groups, exhibit strong horizontal vanishing lines. I will present the concrete filtration of these vanishing lines. Additionally, I will discuss the periodicities of these higher real K-theories, which can be viewed as a generalization of the Bott periodicity of KO at higher heights. This talk is based on joint work with Mike Hill, Guchuan Li, Xiaolin Danny Shi, Guozhen Wang, and Zhouli Xu.
 
 -------------------------------------------------------------------------------------------
 
