@@ -19,7 +19,7 @@
 
 ### <font color=LightCoral size=3>Time: 10：00-11：00, Jul. 10, 2024 </font>
 
-Place: N402
+Place: N602
 
 Title: 
 
@@ -32,7 +32,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 10：00-11：00, Jul. 03, 2024 </font>
 
-Place: N402
+Place: N602
 
 Title: 
 
@@ -44,7 +44,7 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 10：00-11：00, Jun. 26, 2024 </font>
 
-Place: N402
+Place: N602
 
 Title: 
 
@@ -54,9 +54,9 @@ Abstract:
 
 ### <font color=Peru size=3>   吕志（复旦大学） </font>
 
-### <font color=LightCoral size=3>Time: 10：00-11：00, Jun. 19, 2024 </font>
+### <font color=LightCoral size=3>Time: 11：00-12：00, Jun. 19, 2024 </font>
 
-Place: N402
+Place: N602
 
 Title: 
 
@@ -68,7 +68,19 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 10：00-11：00, Jun. 19, 2024 </font>
 
-Place: N402
+Place: N602
+
+Title: 
+
+Abstract: 
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3>  胡润杰 (SUNY) </font>
+
+### <font color=LightCoral size=3>Time: 11：00-12：00, Jun. 12, 2024 </font>
+
+Place: N602
 
 Title: 
 
@@ -80,64 +92,13 @@ Abstract:
 
 ### <font color=LightCoral size=3>Time: 10：00-11：00, Jun. 12, 2024 </font>
 
-Place: N402
+Place: N602
 
 Title: 
 
 Abstract: 
 
 -------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3>  赵嘉恒 </font>
-
-### <font color=LightCoral size=3>Time: 10：00-11：00, Jun. 05, 2024 </font>
-
-Place: N402
-
-Title: 
-
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3>  Sebastian Heller (BIMSA） </font>
-
-### <font color=LightCoral size=3>Time: 10：00-11：00, May 29, 2024 </font>
-
-Place: N402
-
-Title: 
-
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-
-### <font color=Peru size=3>  伍晓磊 （复旦大学） </font>
-
-### <font color=LightCoral size=3>Time: 10：00-11：00, May 22, 2024 </font>
-
-Place: N402
-
-Title: 
-
-Abstract: 
-
--------------------------------------------------------------------------------------------
-
-
-### <font color=Peru size=3>  Fabio Gironella (Nantes) </font>
-
-### <font color=LightCoral size=3>Time: 10：00-11：00, May 15, 2024 </font>
-
-Place: N402
-
-Title: Vanishing cycles for symplectic foliations
-
-Abstract: The main objects of the talk will be symplectic foliations, and more precisely a subclass of these called "strong". Strong symplectic foliations are meant to be one of the possible rigid generalizations of taut foliations to high dimensions, and indeed have quite a rigid nature, with techniques such as pseudo-holomorphic curves à la Gromov and asymptotically holomorphic sequences of sections à la Donaldson working well in this setting. I will present a joint work in progress with Klaus Niederkrüger and Lauran Toussaint that aims at giving a new obstruction for a symplectic foliation to be strong. This comes in the form of a symplectic high-dimensional version of vanishing cycles for smooth codimension 1 foliations on 3-manifolds, and the proof relies on pseudo-holomorphic curve techniques, in a way which is parallel to the case of the Plastikstufe introduced by Niederkrüger '06 in the contact case.
-
--------------------------------------------------------------------------------------------
-
 
 
 
@@ -153,6 +114,50 @@ Abstract: The main objects of the talk will be symplectic foliations, and more p
 -	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
 
 -	Historical talks in this semester：
+
+
+
+### <font color=Peru size=3>  赵嘉恒 </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, Jun. 05, 2024 </font>
+
+Place: N602
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3>  Sebastian Heller (BIMSA） </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, May 29, 2024 </font>
+
+Place: N602
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3>  伍晓磊 （复旦大学） </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, May 22, 2024 </font>
+
+Place: N602
+
+Title: Some calculations about the homology of big mapping class groups
+
+Abstract: I will first given an introduction to surfaces of infinite type. Then I survey some recent developments on the homology of big mapping class groups. In particular,  I will discuss the question when a homology class of big mapping class groups could have compact support. This is a joint work with Martin Palmer.
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3>  Fabio Gironella (Nantes) </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, May 15, 2024 </font>
+
+Place: N402
+
+Title: Vanishing cycles for symplectic foliations
+
+Abstract: The main objects of the talk will be symplectic foliations, and more precisely a subclass of these called "strong". Strong symplectic foliations are meant to be one of the possible rigid generalizations of taut foliations to high dimensions, and indeed have quite a rigid nature, with techniques such as pseudo-holomorphic curves à la Gromov and asymptotically holomorphic sequences of sections à la Donaldson working well in this setting. I will present a joint work in progress with Klaus Niederkrüger and Lauran Toussaint that aims at giving a new obstruction for a symplectic foliation to be strong. This comes in the form of a symplectic high-dimensional version of vanishing cycles for smooth codimension 1 foliations on 3-manifolds, and the proof relies on pseudo-holomorphic curve techniques, in a way which is parallel to the case of the Plastikstufe introduced by Niederkrüger '06 in the contact case.
+
+-------------------------------------------------------------------------------------------
 
 
 
