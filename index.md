@@ -14,6 +14,31 @@
 
 
 
+### <font color=Peru size=3>  李天军 (明尼苏达大学) </font>
+
+### <font color=LightCoral size=3>Time: 10：30-11：30, Jul. 19, 2024 </font>
+
+Place: N602
+
+Title: Contact geometry of symplectic log Calabi-Yau surfaces
+
+Abstract: A symplectic log Calabi-Yau surface is a pair of a closed symplectic 4-manifold and a symplectic divisor representing the anti-canonical class. The symplectic divisor is either a torus or a circular spherical divisor by the adjunction formula. In this talk, We describe the classification of symplectic LCY surfaces and discuss their  contact aspects  (joint works with Cheuk Mak, Jie Min and Shengzhen Ning).
+
+
+-------------------------------------------------------------------------------------------
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+- [Autumn Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Autumn/)  
+-	[Tianyuan Topology Workshop 2023](https://hrzsea.github.io/Tianyuan-Topology-2023/)
+-	[Spring Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Spring/) 
+-	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
+
 
 ### <font color=Peru size=3>  吴惟为（浙江大学） </font>
 
@@ -21,22 +46,48 @@
 
 Place: N602
 
-Title: 
+Title: Floer cohomology of compositions of Lagrangian Dehn twists
 
-Abstract: 
+Abstract: There is a conjecture due to Paul Seidel, that asserts the composition of a sequence of Lagrangian Dehn twists can be computed as a mapping cone between the Floer chain complex of the identity, as well as a cube complex formed by the Hochschild complex of a directed subcategory with spherical objects.  We give two proofs of this conjecture, one is purely algebraic, and the other relies on clean surgery and should be of independent interest.  This result was previously announced by Sikimeti M'au and Tim Perutz, but either approach we present in this talk is different from their solution.  This is partly an upcoming work of Shuo Zhang, and partly a joint work in progress with Cheuk-Yu Mak and Shuo Zhang.
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3>  李文远 (南加州大学) </font>
+
+### <font color=LightCoral size=3>Time: 10：00-11：00, Jul. 10, 2024 </font>
+
+Place: N602
+
+Title: Relative Calabi-Yau structures for microlocal sheaves/Fukaya categories
+
+Abstract: For a Liouville manifold with a Liouville hypersurface at infinity, one can associate a pair of (partially) wrapped Fukaya categories to the pair of Liouville manifolds. The result of Ganatra-Pardon-Shende shows that the Fukaya categories are equivalent to certain categories coming from microlocal sheaf theory. We consider cotangent bundles with Weinstein hypersurfaces, study duality and exact sequences that arise from the pair of categories and show that this pair admits a strong relative Calabi-Yau structure, such that the wrap-once functor gives the inverse dualizing bimodule. This is a non-commutative analogue of the Poincare-Lefschetz duality on manifolds with boundary. This is joint work in preparation with Chris Kuo.
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3>  Igor Kriz（University of Michigan） </font>
+
+### <font color=LightCoral size=3>Time: 11：00-12：00, Jul. 08, 2024 </font>
+
+Place: N602
+
+Title: On the equivariant pushforward of non-equivariant homology
+
+Abstract: Guillou and May gave a model of G-equivariant spectra as spectral homotopy analogues of Mackey functors. If one applies this construction to HZ-modules, one gets modules over the commutative G-spectral ring given by the equivariant pushforward of HZ. This, however, is not a G-equivariant generalized Eilenberg-Mac Lane spectrum in the ordinary sense. In this talk, we will explore this phenomenon, propose its explanation, and also discuss how the derived category of modules over the pushforward can be modeled in terms of more familiar pieces, and calculated with. My talk will reflect on discussions with several people, and on some concrete joint work in progress with Bar Roytman.
+
+
 
 -------------------------------------------------------------------------------------------
 
 
 ### <font color=Peru size=3>   陈冠亨 （深圳大学） </font>
 
-### <font color=LightCoral size=3>Time: 10：00-11：00, Jul. 03, 2024 </font>
+### <font color=LightCoral size=3>Time: 11：00-12：00, Jul. 03, 2024 </font>
 
 Place: N602
 
-Title: 
+Title: On aspherical symplectic fillings of the prequantization bundles 
 
-Abstract: 
+Abstract: A prequantization bundle is a negative circle bundle over a symplectic manifold, equipped with a contact form induced by an S1-invariant connection. In this talk, I will present a result concerning the diffeomorphism types of the symplectic fillings of a prequantization bundle over a surface, under certain topological and symplectic assumptions.  Furthermore, I will discuss an extension of the result to higher dimensions. Under the similar assumptions, the result states that the homology of an aspherical filling is isomorphic to the homology of the disk bundle.
 
 -------------------------------------------------------------------------------------------
 
@@ -46,9 +97,9 @@ Abstract:
 
 Place: N602
 
-Title: 
+Title: An upper bound of LS category of relative Sullivan algebras
 
-Abstract: 
+Abstract: Lusternik-Schnirelmann category (LS category) is an invariant of topology spaces. It measures how many contractible open sets can cover this space. The LS category of a fibration can be bounded by such categories of its base and fiber. In rational homotopy theory, some fibrations can be represented by relative Sullivan algebras, and there is an algebraic version of LS category defined by such algebras. Felix, Halperin and Thomas asked whether the LS category of a relative Sullivan algebra is also bounded by the categories of its base algebra and fiber algebra. We will give a positive answer of this.
 
 -------------------------------------------------------------------------------------------
 
@@ -76,20 +127,6 @@ Abstract: In the talk, I will desccribe some some quotient groups of the interse
 
 -------------------------------------------------------------------------------------------
 
-
-
--------------------------------------------------------------------------------------------
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
-- [Autumn Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Autumn/)  
--	[Tianyuan Topology Workshop 2023](https://hrzsea.github.io/Tianyuan-Topology-2023/)
--	[Spring Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Spring/) 
--	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 ### <font color=Peru size=3>  胡润杰 (SUNY) </font>
 
