@@ -42,7 +42,7 @@ Abstract: A symplectic log Calabi-Yau surface is a pair of a closed symplectic 4
 
 ### <font color=Peru size=3>  吴惟为（浙江大学） </font>
 
-### <font color=LightCoral size=3>Time: 10：00-11：00, Jul. 10, 2024 </font>
+### <font color=LightCoral size=3>Time: 11：00-12：00, Jul. 10, 2024 </font>
 
 Place: N602
 
