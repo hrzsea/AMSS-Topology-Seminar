@@ -13,6 +13,20 @@
 ## <font color=DeepSkyBlue size=5 face="黑体">Upcoming Talks</font>
 
 
+
+### <font color=Peru size=3>  Russell Avdek (Institut de Mathématiques de Jussieu)</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Sep. 25, 2024 </font>
+
+Place: N818
+
+Title: Montesinos' trick and exotic contact submanifolds
+
+Abstract: The first half of the talk will describe a generalization of the famous ``Montesinos Trick'' from 3d topology. It follows from studying an explicit family of a branched coverings of affine varieties using classical techniques in the style of Lefschetz, Milnor, and Rolfsen. Then I'll use the trick to describe exotic embeddings of the standard contact 2n-1 sphere into the standard contact 2n+1 sphere for n at least 2.
+
+
+-------------------------------------------------------------------------------------------
+
 ## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
 
 -	[Spring Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Spring/) 
