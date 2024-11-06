@@ -14,15 +14,72 @@
 
 
 
-### <font color=Peru size=3>  Russell Avdek (Institut de Mathématiques de Jussieu)</font>
 
-### <font color=LightCoral size=3>Time: 14：30-15：30, Sep. 25, 2024 </font>
+### <font color=Peru size=3>   姚远（Nantes）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 25, 2024 </font>
 
 Place: N818
 
-Title: Montesinos' trick and exotic contact submanifolds
+Title: 
 
-Abstract: The first half of the talk will describe a generalization of the famous ``Montesinos Trick'' from 3d topology. It follows from studying an explicit family of a branched coverings of affine varieties using classical techniques in the style of Lefschetz, Milnor, and Rolfsen. Then I'll use the trick to describe exotic embeddings of the standard contact 2n-1 sphere into the standard contact 2n+1 sphere for n at least 2.
+Abstract: 
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3>   林德燮 （重庆大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 11, 2024 </font>
+
+Place: N818
+
+Title: 
+
+Abstract: 
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3>   王诗宬 （北京大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 04, 2024 </font>
+
+Place: N818
+
+Title: 
+
+Abstract: 
+
+
+-------------------------------------------------------------------------------------------
+
+
+
+### <font color=Peru size=3>   王雪琪 （北京第二外国语大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 20, 2024 </font>
+
+Place: N818
+
+Title: 
+
+Abstract: 
+
+
+-------------------------------------------------------------------------------------------
+
+
+
+### <font color=Peru size=3>   陈伟彦（清华大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 13, 2024 </font>
+
+Place: N818
+
+Title: 
+
+Abstract: 
 
 
 -------------------------------------------------------------------------------------------
@@ -39,6 +96,49 @@ Abstract: The first half of the talk will describe a generalization of the famou
 -	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
 
 -	Historical talks in this semester：
+
+
+### <font color=Peru size=3>  陈家煌（数学与系统科学研究院） </font>
+
+### <font color=LightCoral size=3>Time: 14：15-15：15, Nov. 06, 2024 </font>
+
+Place: N818
+
+Title: On the existence of critical Z/2 eigensections on S2
+
+Abstract: On the 2-sphere , the Z/2 eigensection is a generalization of the Laplacian eigenfunction. Specifically, critical Z/2 eigensections serve as flat models for Z/2 harmonic 1-forms, which are analogous to quadratic differentials on 3-manifolds. Recently, Taubes and Wu have investigated the existence of critical Z/2 eigensections and constructed several examples. In this talk, we will further discuss existence of infinitely many critical eigenvalues. This is joint work with S. He.
+
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3>  汪湜（上海科技大学） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Oct. 23, 2024 </font>
+
+Place: N818
+
+Title: Eisenstein series and cusp counting in hyperbolic manifolds
+
+Abstract: We study the Eisenstein series in a complete infinite volume hyperbolic manifold. We show that each full rank cusp corresponds to a cohomology class via the Eisenstein series construction. Moreover, by computing the intertwining operator, we show that different cusps give rise to linearly independent classes. As a consequence, the number of full rank cusps is bounded by the dimension of the cohomology group. This is joint work with Beibei Liu.
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3>  Russell Avdek (Institut de Mathématiques de Jussieu)</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Sep. 25, 2024 </font>
+
+Place: N818
+
+Title: Montesinos' trick and exotic contact submanifolds
+
+Abstract: The first half of the talk will describe a generalization of the famous ``Montesinos Trick'' from 3d topology. It follows from studying an explicit family of a branched coverings of affine varieties using classical techniques in the style of Lefschetz, Milnor, and Rolfsen. Then I'll use the trick to describe exotic embeddings of the standard contact 2n-1 sphere into the standard contact 2n+1 sphere for n at least 2.
+
+
+-------------------------------------------------------------------------------------------
+
+
 
 
 ### <font color=Peru size=3>  王慰 （上海海洋大学）</font>
