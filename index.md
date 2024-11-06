@@ -1,6 +1,6 @@
 # Welcome to the AMSS Topology Seminar Website 
 
-### Members: [Chen Lei](https://sites.google.com/site/alicemath1991/home), [He Siqi](https://sites.google.com/scgp.stonybrook.edu/siqi-he-math-homepage/research), [Huang Ruizhi](https://sites.google.com/site/hrzsea/), [Pan Jianzhong](http://www.math.ac.cn/people/professor/202204/t20220412_695402.html), [Su Yang](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html), [Zhou Zhengyi](https://sites.google.com/view/zhengyizhou/), [Zou Foling](https://sites.google.com/umich.edu/foling-zou/home)
+### Members: [Chen Lei](https://sites.google.com/site/alicemath1991/home), [He Siqi](https://sites.google.com/scgp.stonybrook.edu/siqi-he-math-homepage/research), [Huang Ruizhi](https://sites.google.com/site/hrzsea/), [Pan Jianzhong](http://www.math.ac.cn/people/professor/202204/t20220412_695402.html), [Su Yang](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html), [Wan Jian](http://www.math.ac.cn/people/assoprof/202410/P020241012559468880557.pdf),  [Wan Jinmin](https://jinminwang.github.io/index.html), [Zhou Zhengyi](https://sites.google.com/view/zhengyizhou/), [Zou Foling](https://sites.google.com/umich.edu/foling-zou/home)
 
 ### Emeritus Members: [Duan Haibao](https://www.researchgate.net/profile/Haibao-Duan)(retired from 2022)
 ### Founder Member: [Wu Wen-tsün](https://en.wikipedia.org/wiki/Wu_Wenjun)([吴文俊](http://www.mmrc.iss.ac.cn/~wtwu/), 1919-2017)
