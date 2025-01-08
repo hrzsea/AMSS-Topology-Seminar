@@ -19,7 +19,7 @@
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
 
-- [Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Autumn/) 
+- [Autumn Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Autumn/) 
 -	[Spring Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Spring/) 
 - [Autumn Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Autumn/)  
 -	[Tianyuan Topology Workshop 2023](https://hrzsea.github.io/Tianyuan-Topology-2023/)
