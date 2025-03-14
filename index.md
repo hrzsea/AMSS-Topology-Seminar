@@ -17,7 +17,7 @@
 
 ### <font color=Peru size=3> 张祖仪 </font>
 
-### <font color=LightCoral size=3>Time: 14:30：00-15：30, Apr. 16, 2025 </font>
+### <font color=LightCoral size=3>Time: 14:30-15:30, Apr. 16, 2025 </font>
 
 Place: N818
 
@@ -32,7 +32,7 @@ Abstract:
 
 ### <font color=Peru size=3> Stephen Theriault </font>
 
-### <font color=LightCoral size=3>Time: 14:30：00-15：30, Apr. 09, 2025 </font>
+### <font color=LightCoral size=3>Time: 14:30-15:30, Apr. 09, 2025 </font>
 
 Place: N818
 
@@ -47,7 +47,7 @@ Abstract:
 
 ### <font color=Peru size=3> Stephen Theriault </font>
 
-### <font color=LightCoral size=3>Time: 14:30：00-15：30, Apr. 02, 2025 </font>
+### <font color=LightCoral size=3>Time: 14:30-15:30, Apr. 02, 2025 </font>
 
 Place: N818
 
@@ -63,7 +63,7 @@ Abstract:
 
 ### <font color=Peru size=3> Stephen Theriault </font>
 
-### <font color=LightCoral size=3>Time: 14:30：00-15：30, Mar. 26, 2025 </font>
+### <font color=LightCoral size=3>Time: 14:30-15:30, Mar. 26, 2025 </font>
 
 Place: N818
 
@@ -79,7 +79,7 @@ Abstract:
 
 ### <font color=Peru size=3> Takahiro Oba（） </font>
 
-### <font color=LightCoral size=3>Time: 10:00：00-11：00, Mar. 26, 2025 </font>
+### <font color=LightCoral size=3>Time: 10:00-11:00, Mar. 26, 2025 </font>
 
 Place: N818
 
@@ -94,7 +94,7 @@ Abstract:
 
 ### <font color=Peru size=3> 李谷川（北京大学） </font>
 
-### <font color=LightCoral size=3>Time: 14:30：00-15：30, Mar. 19, 2025 </font>
+### <font color=LightCoral size=3>Time: 14:30-15:30, Mar. 19, 2025 </font>
 
 Place: N818
 
@@ -111,7 +111,7 @@ Abstract: Real Bott periodicity shows that the homotopy groups of Real topologic
 
 ### <font color=Peru size=3> 高红铸（北京师范大学） </font>
 
-### <font color=LightCoral size=3>Time: 15:30：00-17：00, Mar. 12, 2025 </font>
+### <font color=LightCoral size=3>Time: 15:30-17:00, Mar. 12, 2025 </font>
 
 Place: N818
 
@@ -119,6 +119,7 @@ Title: Knot invariants in thickened surfaces derived from chord index
 
 
 Abstract: An effective method to construct a knot invariant is to sum up certain weighted crossings (chord index) in a knot diagram. In this talk, we demonstrate a way to define chord indices in thickened surfaces. Specifically, for a given closed orientated surface , we introduce a chord index homomorphism from a subgroup of H1(, Z) to the group of chord indices of a knot K in  I. Some knot invariants can be derived from this homomorphism.
+
 
 
 -------------------------------------------------------------------------------------------
