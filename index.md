@@ -109,6 +109,19 @@ Abstract: Real Bott periodicity shows that the homotopy groups of Real topologic
 ## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
 
 
+- [Autumn Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Autumn/) 
+-	[Spring Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Spring/) 
+- [Autumn Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Autumn/)  
+-	[Tianyuan Topology Workshop 2023](https://hrzsea.github.io/Tianyuan-Topology-2023/)
+-	[Spring Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Spring/) 
+-	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
+
 ### <font color=Peru size=3> 高红铸（北京师范大学） </font>
 
 ### <font color=LightCoral size=3>Time: 15:30-17:00, Mar. 12, 2025 </font>
@@ -123,19 +136,6 @@ Abstract: An effective method to construct a knot invariant is to sum up certain
 
 
 -------------------------------------------------------------------------------------------
-
-
-- [Autumn Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Autumn/) 
--	[Spring Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Spring/) 
-- [Autumn Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Autumn/)  
--	[Tianyuan Topology Workshop 2023](https://hrzsea.github.io/Tianyuan-Topology-2023/)
--	[Spring Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Spring/) 
--	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 
 
