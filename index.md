@@ -47,7 +47,7 @@ Abstract:
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3> Stephen Theriault </font>
+### <font color=Peru size=3> Stephen Theriault （University of Southampton）</font>
 
 ### <font color=LightCoral size=3>Time: 14:30-15:30, Apr. 09, 2025 </font>
 
@@ -62,7 +62,7 @@ Abstract: Let M be a simply-connected 2n-dimensional Poincare Duality complex. W
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3> Stephen Theriault </font>
+### <font color=Peru size=3> Stephen Theriault（University of Southampton） </font>
 
 ### <font color=LightCoral size=3>Time: 14:30-15:30, Apr. 02, 2025 </font>
 
@@ -78,7 +78,7 @@ Abstract: A provocative theorem of Halperin and Lemaire states that if M is a si
 
 
 
-### <font color=Peru size=3> Stephen Theriault </font>
+### <font color=Peru size=3> Stephen Theriault （University of Southampton）</font>
 
 ### <font color=LightCoral size=3>Time: 14:30-15:30, Mar. 26, 2025 </font>
 
