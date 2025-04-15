@@ -15,6 +15,22 @@
 
 
 
+### <font color=Peru size=3> Vlad Markovic </font>
+
+### <font color=LightCoral size=3>Time: 14:30-15:30, May 28, 2025 </font>
+
+Place: N818
+
+Title: 
+
+Abstract: 
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+
 ### <font color=Peru size=3> 胥夫鹏 (AMSS) </font>
 
 ### <font color=LightCoral size=3>Time: 14:30-15:30, Apr. 23, 2025 </font>
