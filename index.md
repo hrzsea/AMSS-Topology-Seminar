@@ -32,15 +32,46 @@ Abstract:
 
 
 
-### <font color=Peru size=3> 张祖仪 </font>
+### <font color=Peru size=3> 张祖仪 （北京国际数学中心） </font>
 
 ### <font color=LightCoral size=3>Time: 14:30-15:30, Apr. 16, 2025 </font>
 
 Place: N818
 
-Title: 
+Title: Immersed Lagrangian Floer theory, Lagrangain compositions, and bounding cochains on surfaces
 
-Abstract: 
+Abstract: In this talk, I will first give the background of immersed Lagrangian Floer theory based on character varieties. Then I will focus on the relation between immersed quilted Lagrangian Floer theory and the usual immersed Lagrangian Floer theory when they are related by a Lagrangian correspondence, in the topological aspect. I will use many examples to explore this relation. If time permitted, I will give some examples about bounding cochains.
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
+
+
+- [Autumn Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Autumn/) 
+-	[Spring Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Spring/) 
+- [Autumn Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Autumn/)  
+-	[Tianyuan Topology Workshop 2023](https://hrzsea.github.io/Tianyuan-Topology-2023/)
+-	[Spring Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Spring/) 
+-	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
+-	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
+-	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
+-	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
+
+-	Historical talks in this semester：
+
+
+### <font color=Peru size=3> 李平 （复旦大学）</font>
+
+### <font color=LightCoral size=3>Time: 16:00-17:00, Apr. 11, 2025 </font>
+
+Place: N702
+
+Title: Chern numbers on positive vector bundles and combinatorics
+
+Abstract: 经由Griffiths(1960s)，Fulton-Lazarsfeld(1980s)和Demailly-Peternell-Schneider(1990s)等的基本工作我们知道正向量丛的Chern数满足很强的限制条件。他们的工作也遗留了几个基本的问题。在这个报告中我们将回顾这些相关工作并讲讲最近的一些进展。
 
 
 
@@ -107,22 +138,6 @@ Abstract: This talk is concerned with symplectic fillings of contact manifolds. 
 
 
 -------------------------------------------------------------------------------------------
-
-
-## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
-
-
-- [Autumn Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Autumn/) 
--	[Spring Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Spring/) 
-- [Autumn Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Autumn/)  
--	[Tianyuan Topology Workshop 2023](https://hrzsea.github.io/Tianyuan-Topology-2023/)
--	[Spring Semester 2023](https://hrzsea.github.io/AMSS-Topology-Seminar-2023Spring/) 
--	[Autumn Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Autumn/)  
--	[Spring Semester 2022](https://hrzsea.github.io/AMSS-Topology-Seminar-2022Spring/) 
--	[Autumn Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Autumn/) 
--	[Spring Semester 2021](https://hrzsea.github.io/AMSS-Topology-Seminar-2021Spring/) 
-
--	Historical talks in this semester：
 
 
 ### <font color=Peru size=3> 李谷川（北京大学） </font>
