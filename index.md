@@ -34,23 +34,6 @@ Abstract: In this talk we introduce recent collaboration work with Shuang Ming, 
 
 
 
-
-### <font color=Peru size=3> Stephen Theriault（南安普顿大学） </font>
-
-### <font color=LightCoral size=3>Time: 15:00-16:00, Aug. 22, 2025 </font>
-
-Place: N933
-
-Title: Homotopy theoretic properties of gyrations 
-
-Abstract: If M is a manifold, a gyration is a surgery on M\times S^k for some positive integer k. These appear prominently in work of Gitler-Lopez de Medrano on intersections of quadrics and recent work of Duan on the classification of certain types of manifolds. We will discuss homotopy theoretic properties of gyrations, such as loop space decompositions and classifications of homotopy types depending on how the surgery may be twisted by a nontrivial diffeomorphism. This is based on joint projects with Ruizhi Huang and Sebastian Chenery. 
-
-
--------------------------------------------------------------------------------------------
-
-
-
-
 -	[Spring Semester 2025](https://hrzsea.github.io/AMSS-Topology-Seminar-2025Spring/) 
 - [Autumn Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Autumn/) 
 -	[Spring Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Spring/) 
@@ -64,6 +47,21 @@ Abstract: If M is a manifold, a gyration is a surgery on M\times S^k for some po
 
 -	Historical talks in this semester：
 
+
+
+
+### <font color=Peru size=3> Stephen Theriault（南安普顿大学） </font>
+
+### <font color=LightCoral size=3>Time: 15:00-16:00, Aug. 22, 2025 </font>
+
+Place: N933
+
+Title: Homotopy theoretic properties of gyrations 
+
+Abstract: If M is a manifold, a gyration is a surgery on M\times S^k for some positive integer k. These appear prominently in work of Gitler-Lopez de Medrano on intersections of quadrics and recent work of Duan on the classification of certain types of manifolds. We will discuss homotopy theoretic properties of gyrations, such as loop space decompositions and classifications of homotopy types depending on how the surgery may be twisted by a nontrivial diffeomorphism. This is based on joint projects with Ruizhi Huang and Sebastian Chenery. 
+
+
+-------------------------------------------------------------------------------------------
 
 
 
