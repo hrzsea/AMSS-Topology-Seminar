@@ -15,7 +15,7 @@
 
 
 
-### <font color=Peru size=3> 刘天约博士（北京大学 </font>
+### <font color=Peru size=3> 刘天约博士（北京大学） </font>
 
 ### <font color=LightCoral size=3>Time: 14:30-15:30, Sep. 03, 2025 </font>
 
