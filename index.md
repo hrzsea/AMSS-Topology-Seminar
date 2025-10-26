@@ -110,24 +110,9 @@ Place: N820
 
 Title: A Bilinear Form for Spinc Manifolds
 
-Abstract: Let M be a closed oriented spinc manifold of dimension (8n+2) with fundamental class [M], and let ρ2 : H4n(M; Z) → H4n(M; Z/2) denote the mod 2 reduction
-homomorphism. For any torsion class t ∈ H4n(M; Z), we establish the identity
-⟨ρ2(t) · Sq2
-ρ2(t), [M]⟩ = ⟨ρ2(t) · Sq2
-v4n(M), [M]⟩,
-where Sq2
-is the Steenrod square, v4n(M) is the 4n-th Wu class of M, x · y denotes the cup
-product of x and y, and ⟨· , ·⟩ denotes the Kronecker product. This result generalizes the
-work of Landweber and Stong from spin to spinc manifolds.
-As an application, let β
-Z/2
-: H4n+2(M; Z/2) → H4n+3(M; Z) be the Bockstein homomorphism associated to the short exact sequence of coefficients Z
-×2
-−−→ Z → Z/2. We deduce
-that β
-Z/2
-(Sq2v4n(M)) = 0, and consequently, Sq3v4n(M) = 0, for any closed oriented spinc
-manifold M with dim M ≤ 8n+1.
+Abstract: Let M be a closed oriented spinc manifold of dimension (8n+2) with fundamental class [M], and let ρ2 : H4n(M; Z) → H4n(M; Z/2) denote the mod 2 reduction homomorphism. For any torsion class t ∈ H4n(M; Z), we establish the identity
+⟨ρ2(t) · Sq2 ρ2(t), [M]⟩ = ⟨ρ2(t) · Sq2 v4n(M), [M]⟩, where Sq2 is the Steenrod square, v4n(M) is the 4n-th Wu class of M, x · y denotes the cup product of x and y, and ⟨· , ·⟩ denotes the Kronecker product. This result generalizes the
+work of Landweber and Stong from spin to spinc manifolds. As an application, let β Z/2: H4n+2(M; Z/2) → H4n+3(M; Z) be the Bockstein homomorphism associated to the short exact sequence of coefficients Z×2−−→ Z → Z/2. We deduce that βZ/2(Sq2v4n(M)) = 0, and consequently, Sq3v4n(M) = 0, for any closed oriented spinc manifold M with dim M ≤ 8n+1.
 
 
 -------------------------------------------------------------------------------------------
