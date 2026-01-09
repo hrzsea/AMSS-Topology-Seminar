@@ -204,7 +204,20 @@ Abstract: In joint work with Lidman and Daemi, we show that if K is a non-trivia
 
 -------------------------------------------------------------------------------------------
 
-### <font color=Peru size=3> Mike Miller Eismeier（University of Vermont） </font>
+### <font color=Peru size=3> Jack Davies (Bergische Universität Wuppertal) </font>
+
+### <font color=LightCoral size=3>Time: 16:00 - 17:00, Nov. 17, 2025 </font>
+
+Place: zoom
+
+Title: Detection methods with synthetic spectra
+
+Abstract: The use of synthetic (or motivic or filtered or...) spectra for studying spectral sequences from a homotopical perspective has been a major theme in many recent computations in the stable homotopy groups of spheres. In this talk, I would like to discuss some basic tools and techniques for using synthetic spectra, paired with a detection spectrum X, like real K-theory or topological modular forms, together with some operations on X, to produce infinite periodic families in the stable homotopy groups of spheres. In particular, we want to focus on the utility of the synthetic Hurewicz image of X to detect these families in the classical stable homotopy groups of spheres. We will begin with the height one example of real K-theory together with its natural Adams operations in some detail, before moving onto various generalisations at height 2. If there is time, we will comment on some more recent advances. This is all joint work with Christian Carrick.
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 李一寒（南开大学） </font>
 
 ### <font color=LightCoral size=3>Time: 10:30 - 11:30, Nov. 13, 2025 </font>
 
