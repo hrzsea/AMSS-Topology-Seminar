@@ -1,4 +1,4 @@
-# Welcome to the AMSS Topology Seminar Website 
+<img width="432" height="101" alt="image" src="https://github.com/user-attachments/assets/f9f2a02e-d770-4281-a006-2fa8093b3d22" /># Welcome to the AMSS Topology Seminar Website 
 
 ### Members: [Chen Lei](https://sites.google.com/site/alicemath1991/home), [He Siqi](https://sites.google.com/scgp.stonybrook.edu/siqi-he-math-homepage/research), [Huang Ruizhi](https://sites.google.com/site/hrzsea/), [Zhenkun Li](https://zhenkun-li.com/), [Pan Jianzhong](http://www.math.ac.cn/people/professor/202204/t20220412_695402.html), [Su Yang](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html), [Wang Jian](http://www.math.ac.cn/people/assoprof/202410/P020241012559468880557.pdf),  [Wang Jinmin](https://jinminwang.github.io/index.html), [Zhou Zhengyi](https://sites.google.com/view/zhengyizhou/), [Zou Foling](https://sites.google.com/umich.edu/foling-zou/home)
 
@@ -15,49 +15,37 @@
 
 
 
+### <font color=Peru size=3>  杨聚鑫 (大理理工大学） </font>
+
+### <font color=LightCoral size=3>Time: 15:30 - 16:30 , Jan. 12, 2026 </font>
+
+Place: N933
+
+Title: Introduction to the classical methods for computing the unstable homotopy groups
 
 
-### <font color=Peru size=3> Đorđe Baralić (Mathematical Institute of the Serbian Academy of Sciences and Arts) </font>
 
-### <font color=LightCoral size=3>Time: 15:30 - 16:30 , Nov. 26, 2025 </font>
-
-Place: N820
-
-Title: Universal simplicial complexes and the mod p Buchstaber invariant
-
-Abstract: Universal simplicial complexes are important objects in toric topology,
-closely related to the classification of quasitoric manifolds and to small
-covers and Buchstaber's invariant computation. In this talk, we present
-some recent results about the Tor algebra of the Stanley-Reisner ring of
-the universal simplicial complexes over the field of characteristic p,
-where p is a prime number and some new applications in toric topology.
+Abstract: In this talk, we review classical Toda-style methods for computing unstable homotopy groups of spheres, 2-cell complexes, and SO(n), and present recent progress based on these techniques.
 
 
--------------------------------------------------------------------------------------------
 
-### <font color=Peru size=3> Mike Miller Eismeier </font>
-
-### <font color=LightCoral size=3>Time: 14:30 - 15:30 , Nov. 26, 2025 </font>
-
-Place: N820
-
-Title: 
-
-Abstract: 
 
 
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3> 张硕（中国科学院数学与系统科学研究院） </font>
+### <font color=Peru size=3>  杨聚鑫 (大理理工大学） </font>
 
-### <font color=LightCoral size=3>Time: 14:00 - 15:00 , Oct. 29, 2025 </font>
+### <font color=LightCoral size=3>Time: 14:30 - 15:30 , Jan. 12, 2026 </font>
 
-Place: MCM 110
+Place: N933
 
-Title: A infinity multi-modules from quilts and applications
+Title: A “Periodicity” phenomenon of the attaching map of the 2-cell  complexes
 
-Abstract: Invariants defined by counting pseudo-holomorphic maps from Riemann surfaces with boundary are uniquitous in symplectic geometry, low dimensional topology and mathematical physics. Some examples include various types of Floer homologies, Fukaya categories and Gromov-Witten theory. In this talk I will give a short survey about a generalization of this developed by Wehrheim-Woodward called pseudo-holomorphic quilts. Then I will present some applications of quilted invariants including a proof of a conjecture of Seidel regarding the Floer homology of composed Dehn twists.
+
+Abstract: In this talk, I would like to introduce our recent work on the “Periodicity” phenomenon of the attaching map of the suspended two-cell CW complex. I will first introduce Selick-Wu's A^{min}-theory, a theory on the homotopy functor decomposition and becoming a bridge between homotopy theory and the representation theory. Employing this theory, we deduce that the attaching map of the CW complex above manifests a“periodicity”phenomenon. The result essentially furnishes, up to the present, one of the most effective methods for computing the unstable homotopy groups of 2-cell complexes in the J_{4}-range.
+
+
 
 
 -------------------------------------------------------------------------------------------
@@ -82,6 +70,154 @@ Abstract: Invariants defined by counting pseudo-holomorphic maps from Riemann su
 -	Historical talks in this semester：
 
 
+
+### <font color=Peru size=3>  林剑锋 （清华大学） </font>
+
+### <font color=LightCoral size=3>Time: 14:30 - 15:30 , Jan. 07, 2026 </font>
+
+Place: N820
+
+Title: The equivalence between two real Seiberg-Witten-Floer homologies
+
+Abstract: Recently, 3&4 manifolds with finite group actions has become a popular topic. Real manifolds form the simplest class among them. Following the strategy of Manolescu, Kronheimer-Mrowka, 
+respectively, Konno-Miyazawa-Taniguchi and Li introduced two versions of real Seiberg-Witten-Floer homologies and developed many interesting applications. 
+In this work, we show the two homology theories are equivalence whenever they are both defined following the strategy developed by Lidman and Manolescu. 
+As application, we identify Froyshov-type invariants from two theories and proved some Smith-type inequalities. 
+In this talk, we first review the two approaches to (real) Seiberg-Witten-Floer homologies, 
+then sketch a proof of our main theorem. If time admits, we talk about the applications and some basic examples.
+
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3>  林剑锋 （清华大学） </font>
+
+### <font color=LightCoral size=3>Time: 14:30 - 15:30 , Dec. 24, 2025 </font>
+
+Place: N820
+
+Title: Lightbulb theorem, embedded surfaces and isotopy of symplectic structures
+
+Abstract: Gabai's lightbulb theorem  classifies embedded spheres in 4-manifolds with a geometric dual sphere. It is a breakthrough in 4-dimensional topology. In this talk, I discuss a joint work with Weiwei Wu, Yi Xie and Boyu Zhang, which classifies the isotopy classes of embeddings of a surface F into the product manifold F cross S2 with a geometric dual.  This answers a question of Gabai regarding the generalized lightbulb theorem. Second, we show that the space of symplectic forms on an irrational ruled surface in a fixed cohomology class has infinitely many connected components. This gives the first such example among closed 4--manifolds and answers Problem 2(a) in McDuff--Salamon's problem list.  The proofs are based on a generalization of the Dax invariant to embedded closed surfaces. In the proof, we also establish several properties of the smooth mapping class group of a surface cross S2 is infinitely generated.
+
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3>  Andrew Baker（University of Glasgow） </font>
+
+### <font color=LightCoral size=3>Time: 17:00 - 18:00 , Dec. 22, 2025 </font>
+
+Place: Zoom
+
+Title: Endotrivial modules, Picard groups and chromatic Jokers
+
+Abstract: Associated to a finite dimensional cocommutative (graded) Hopf algebra there is a symmetric monoidal  \emph{stable module category}  and a Picard group whose elements are \emph{endotrivial modules}. These objects have been the focus of a lot of activity in  the following cases: finite group algebras over fields of positive characteristic, finite subHopf algebras of the Steenrod algebra $\mathcal{A}$. 
+
+I will discuss these and then explain what the algebraic Joker module over $\mathcal{A}(1)$ is and how it generalises to modules over the  $\mathcal{A}(n)$ subHopf algebras. For small values of  $n$ these can be realised as cohomology of spectra.
+
+Then I will explain how double Joker spectra when viewed in chromatic level 2 give rise to interesting endotrivial modules over $\mathbb{F}_4Q_4$, the group ring of the quaternion group of order 8.
+
+
+
+-------------------------------------------------------------------------------------------
+### <font color=Peru size=3>  段剑儒（北京大学） </font>
+
+### <font color=LightCoral size=3>Time: 14:30 - 15:30 , Dec. 17, 2025 </font>
+
+Place: N820
+
+Title: Universal L^2-torsion detects fibered 3-manifolds
+
+Abstract: It is well-known that the Alexander polynomial of a fibered knot must be monic. But in general the converse is not true. In this talk, we introduce the universal L^2-torsion of a 3-manifold, an invariant defined in analogy with the classical Reidemeister torsion, but using tools from L^2-theory. We show that this invariant detects fibered 3-manifolds. Our proof is based on a study of the leading term map on Linnell's skew field.
+
+
+
+-------------------------------------------------------------------------------------------
+### <font color=Peru size=3>  虎腾霖 （中国科学院数学与系统科学研究院） </font>
+
+### <font color=LightCoral size=3>Time: 14:30 - 15:30 , Dec. 10, 2025 </font>
+
+Place: N820
+
+Title: On the mapping class group of 2-sphere bundles over the complex projective plane
+
+Abstract: Mapping class groups of smooth manifolds are important objects in geometric topology. In this talk, I will introduce some of my recent progress on the computation of the mapping class groups of the total spaces of a class of 2-sphere bundles over the complex projective plane. In particular, these include some smooth divisors in the product of two complex projective planes as such the Milnor hypersurface. Our strategy is a combination of homotopy theory and surgery theory.
+
+
+
+-------------------------------------------------------------------------------------------
+### <font color=Peru size=3> 胥夫鹏 （中国科学院数学与系统科学研究院） </font>
+
+### <font color=LightCoral size=3>Time: 14:30 - 15:30 , Dec. 03, 2025 </font>
+
+Place: N820
+
+Title: On 7-manifolds with b_2=2: diffeomorphism classification and nonconnected moduli spaces of positive Ricci curvature metrics
+
+Abstract: Understanding how topology influences existence and variation of positive Ricci curvature metrics remains a central theme in manifold topology and geometry. Many potential sources of nontrivial moduli behavior, especially those lacking the geometric structures required by existing general results, remain poorly understood.In this talk we present a partial classification of simply connected 7-manifolds with b_2=2 arising as circle bundles over (CP^1×CP^2)# CP^3, using modified surgery theory to develop and compute refined invariants. The classification provides new manifolds whose spaces and moduli spaces of positive Ricci curvature metrics have infinitely many path components, extending such phenomena beyond previously accessible settings.
+
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> Kaif Hilman (University of Bonn) </font>
+
+### <font color=LightCoral size=3>Time: 16:00 - 17:00 , Dec. 01, 2025 </font>
+
+Place: Zoom
+
+Title: Equivariant localizing motives for finite groups
+
+Abstract: In this talk, I will give a proposal for a definition of genuine equivariant localising motives for finite groups. This notion will be based on that of idempotent complete equivariantly stable categories. Using isotropy separation arguments on equivariant cubes and the recent insights of Ramzi-Sosnilo-Winges, we will see how to use this version of motives to enhance the algebraic K-theory functor with the structure of multiplicative norms. Time permitting, we will also discuss other applications such as showing that all genuine G-spectra are the K-theory of a G-stable category. This reports on joint work-in-progress with Maxime Ramzi.
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> Đorđe Baralić (Mathematical Institute of the Serbian Academy of Sciences and Arts) </font>
+
+### <font color=LightCoral size=3>Time: 15:30 - 16:30 , Nov. 26, 2025 </font>
+
+Place: N820
+
+Title: Universal simplicial complexes and the mod p Buchstaber invariant
+
+Abstract: Universal simplicial complexes are important objects in toric topology,
+closely related to the classification of quasitoric manifolds and to small
+covers and Buchstaber's invariant computation. In this talk, we present
+some recent results about the Tor algebra of the Stanley-Reisner ring of
+the universal simplicial complexes over the field of characteristic p,
+where p is a prime number and some new applications in toric topology.
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> Mike Miller Eismeier（University of Vermont） </font>
+
+### <font color=LightCoral size=3>Time: 14:00 - 15:00, Nov. 26, 2025 </font>
+
+Place: N820
+
+Title: Cosmetic surgery and filtered instanton homology
+
+Abstract: In joint work with Lidman and Daemi, we show that if K is a non-trivial knot in S^3, no two integer homology sphere surgeries on K can be oriented homeomorphic. It follows from this and known results that if a knot K in S^3 admits a cosmetic surgery, then the cosmetic slopes must be {2,-2} and K must have trivial Alexander polynomial.
+
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> 张硕（中国科学院数学与系统科学研究院） </font>
+
+### <font color=LightCoral size=3>Time: 14:00 - 15:00 , Oct. 29, 2025 </font>
+
+Place: MCM 110
+
+Title: A infinity multi-modules from quilts and applications
+
+Abstract: Invariants defined by counting pseudo-holomorphic maps from Riemann surfaces with boundary are uniquitous in symplectic geometry, low dimensional topology and mathematical physics. Some examples include various types of Floer homologies, Fukaya categories and Gromov-Witten theory. In this talk I will give a short survey about a generalization of this developed by Wehrheim-Woodward called pseudo-holomorphic quilts. Then I will present some applications of quilted invariants including a proof of a conjecture of Seidel regarding the Floer homology of composed Dehn twists.
+
+
+-------------------------------------------------------------------------------------------
 
 
 
