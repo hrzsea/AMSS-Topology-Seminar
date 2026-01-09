@@ -1,4 +1,4 @@
-<img width="432" height="101" alt="image" src="https://github.com/user-attachments/assets/f9f2a02e-d770-4281-a006-2fa8093b3d22" /># Welcome to the AMSS Topology Seminar Website 
+# Welcome to the AMSS Topology Seminar Website 
 
 ### Members: [Chen Lei](https://sites.google.com/site/alicemath1991/home), [He Siqi](https://sites.google.com/scgp.stonybrook.edu/siqi-he-math-homepage/research), [Huang Ruizhi](https://sites.google.com/site/hrzsea/), [Zhenkun Li](https://zhenkun-li.com/), [Pan Jianzhong](http://www.math.ac.cn/people/professor/202204/t20220412_695402.html), [Su Yang](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html), [Wang Jian](http://www.math.ac.cn/people/assoprof/202410/P020241012559468880557.pdf),  [Wang Jinmin](https://jinminwang.github.io/index.html), [Zhou Zhengyi](https://sites.google.com/view/zhengyizhou/), [Zou Foling](https://sites.google.com/umich.edu/foling-zou/home)
 
