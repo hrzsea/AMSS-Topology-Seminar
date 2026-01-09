@@ -71,7 +71,7 @@ Abstract: In this talk, I would like to introduce our recent work on the “Peri
 
 
 
-### <font color=Peru size=3>  林剑锋 （清华大学） </font>
+### <font color=Peru size=3>  肖咏涵 (北京大学) </font>
 
 ### <font color=LightCoral size=3>Time: 14:30 - 15:30 , Jan. 07, 2026 </font>
 
@@ -205,6 +205,31 @@ Abstract: In joint work with Lidman and Daemi, we show that if K is a non-trivia
 
 -------------------------------------------------------------------------------------------
 
+### <font color=Peru size=3> Mike Miller Eismeier（University of Vermont） </font>
+
+### <font color=LightCoral size=3>Time: 10:30 - 11:30, Nov. 13, 2025 </font>
+
+Place: MCM410
+
+Title: Spectral Flow, Eta Invariant and Llarull's Rigidity Theorem in Odd Dimensions
+
+Abstract: In this talk, I will present the application eta invariant and spectral flow on the proof of the odd-dimensional part of Llarull’s Theorem and two of its extensions. Generally speaking, Atiyah-Singer index theory is one of the major tools in the study of Riemannian metrics of positive scalar curvature. In odd dimensions, the spectral flow of a family of twisted Dirac operators on a compact spin manifold can be used to provide a direct proof of Llarull’s rigidity theorem and the so called “spin-area convex extremality theorem”. Furthermore, combining with the deformed Dirac operator introduced by Bismut and Cheeger, this method can be used to prove noncompact extension of Llarull’s theorem, which provides a final answer to a question by Gromov. This talk is based on joint works with Guangxiang Su, Xiangsheng Wang and Weiping Zhang.
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> Christian Carrick (University of Bonn) </font>
+
+### <font color=LightCoral size=3>Time: 16:00 - 17:00 , Nov. 03, 2025 </font>
+
+Place: Zoom
+
+Title: Slice spectral sequences through synthetic spectra
+
+Abstract: We define a $t$-structure on the category of filtered $G$-spectra such that for a Borel $G$-spectrum $X$ the slice filtration of $X$ is the connective cover of the homotopy fixed-point filtration of $X$. Using this, we show that the slice spectral sequence for the norm $N_{C_2}^GMU_{\mathbb{\R}}$ of Real bordism theory refines canonically to a $\mathbb{E}_\infty$-algebra in $MU$-synthetic spectra, when $G$ is a cyclic $2$-group. Concretely, this gives a map of multiplicative spectral sequences from the classical Adams--Novikov spectral sequence of $\mathbb{S}$ to the slice spectral sequence for $N_{C_2}^GMU_{\mathbb{\R}}$ that respects the higher $\mathbb{E}_\infty$ structure, such as Toda brackets and power operations. We speculate further on a relationship to the equivariant ANSS based at tom Dieck's homotopical complex bordism $MU_G$.
+
+
+-------------------------------------------------------------------------------------------
 
 ### <font color=Peru size=3> 张硕（中国科学院数学与系统科学研究院） </font>
 
