@@ -55,7 +55,7 @@ Abstract: In this talk, I would like to introduce our recent work on the “Peri
 ## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
 
 
--	[Workshop on Algebraic and Geometric Topology in Celebration of Haibao Duan’s 70th Birthday](https://hrzsea.github.io/Workshop-on-Algebraic-and-Geometric-Topology/) 
+-	[Workshop on Algebraic and Geometric Topology in Celebration of Haibao Duan’s 70th Birthday](https://hrzsea.github.io/Workshop-on-Algebraic-and-Geometric-Topology/)
 -	[Spring Semester 2025](https://hrzsea.github.io/AMSS-Topology-Seminar-2025Spring/) 
 - [Autumn Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Autumn/) 
 -	[Spring Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Spring/) 
