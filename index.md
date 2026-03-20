@@ -33,7 +33,7 @@ Abstract: Rational homology spheres occupy a distinguished position in topology,
 
 ## <font color=DeepSkyBlue size=5 face="黑体">Historical Talks</font>
 
-
+- [Autumn Semester 2025](https://hrzsea.github.io/AMSS-Topology-Seminar-2025Autumn/) 
 -	[Workshop on Algebraic and Geometric Topology in Celebration of Haibao Duan’s 70th Birthday](https://hrzsea.github.io/Workshop-on-Algebraic-and-Geometric-Topology/)
 -	[Spring Semester 2025](https://hrzsea.github.io/AMSS-Topology-Seminar-2025Spring/) 
 - [Autumn Semester 2024](https://hrzsea.github.io/AMSS-Topology-Seminar-2024Autumn/) 
